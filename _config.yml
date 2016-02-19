@@ -1,20 +1,26 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Compagnie Saseo
-tagline:          'Cirque frénétique et tout terrain'
-description:      'Description...'
+tagline:          Cirque frénétique et tout terrain
+description:      >
+  Description...
 url:              http://saseo.org
-baseurl:          /
+baseurl:          ""
 
+paginate:         5
+
+# Assets
+sass:
+ style:           :compressed
+
+# About/contact
 author:
   name:           'Thibaut Rizzi'
 
-paginate:         5
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
