@@ -4,22 +4,17 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Compagnie Saseo
 tagline:          'Cirque frénétique et tout terrain'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://rizoom.github.io/saseo.org/
-baseurl:          https://rizoom.github.io/saseo.org/
+description:      'Description...'
+url:              http://saseo.org
+baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Thibaut Rizzi'
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
