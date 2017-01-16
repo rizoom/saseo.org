@@ -9,18 +9,10 @@ description:      >
 url:              http://saseo.org
 baseurl:          ""
 
-paginate:         5
-
 # Assets
 sass:
- style:           :compressed
+  style:           :compressed
 
 # About/contact
 author:
   name:           'Thibaut Rizzi'
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-

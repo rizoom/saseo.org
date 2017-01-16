@@ -7,25 +7,18 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == homeurl %} active{% endif %}" href="{{ homeurl }}">La compagnie</a>
-<!--
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% for node in site.pages %}
+      {% assign sorted = site.pages | sort: 'sidebar_order' %}
+      {% for node in sorted %}
         {% if node.title != null and node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
--->      
+      
     </nav>
 
+    <small>
+      Contact – <a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#97;&#99;&#105;&#101;&#115;&#97;&#115;&#101;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#108;&#97;&#99;&#105;&#101;&#115;&#97;&#115;&#101;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
+    </small><br/>
     <small>
       &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Tous droits réservés.
     </small>
