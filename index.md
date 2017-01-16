@@ -24,11 +24,11 @@ Né par la suite, en 2016, le « **Cabaret de Poche** » !
   <dt>Saseo</dt>
   <dd>c'est un cri de joie, un éclat de rire, la verve en fusion, un point d'exclamation, un volcan en éruption, la feuille d'automne qui tombe (en un peu plus lourd), le claquement de la vague sur le sable, la douche glacée (sauf en hiver), l'accent d'un papé Marseillais, c'est ce qui dépasse et qu'on ne veut plus cacher.</dd>
   <dt>Saseo</dt>
-  <dd>C'est "<em>la langue qui n'a pas d'école, la nage indienne bien plus que le crawl</em>" (Zebda -- Je suis)</dd>
+  <dd>C'est "<em>la langue qui n'a pas d'école, la nage indienne bien plus que le crawl</em>" (Zebda – Je suis)</dd>
   <dt>Saseo</dt>
   <dd>Saseo c'est surtout un collectif issu du Lido (entre des arts du cirque de Toulouse et de la musique toulousaine).</dd>
 </dl>
 
 <blockquote>
   Les valeurs de SASEO? La bonne humeur, la générosité, le goût du moment présent et le pâté de couennes.
-<blockquote>
+</blockquote>
