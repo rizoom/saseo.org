@@ -7,8 +7,6 @@ sidebar_order: 3
 ## À venir
 
 <dl>
-  <dt><u>Dimanche 12 Mars</u></dt>
-  <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
   <dt><u>Mercredi 19 Avril</u></dt>
   <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
   <dt><u>Dimanche 21 Mai</u></dt>
@@ -25,6 +23,7 @@ sidebar_order: 3
 
 ## Représentations passées
 
+- **Dimanche 12 Mars** Graulhet (81) -- dans le cadre de la résidence de médiation culturelle
 - **Jeudi 2 Février 2017** Lycée agricole -- Castelnaudary (11)
 - **Du Mardi 17 au Samedi 21 Janvier 2017** Théâtre du Grand Rond -- Toulouse (31)
 - **17 au 21 Août 2016** Festival de rue d'Aurillac -- Aurillac (15)
