@@ -4,6 +4,7 @@ title: Le spectacle
 sidebar_order: 2
 ---
 
+![Saseo sur scène lors d'une chanson du cabaret]({{ site.baseurl }}/public/img/Cabaretdepoche Chansonpetite.jpg "Compagnie Saseo en scène")
 ## L'idée
 
 Autour d'un verre qui bulle, nous avons discuté :
