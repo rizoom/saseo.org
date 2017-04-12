@@ -18,7 +18,7 @@ sidebar_order: 3
   <dt><u>Jeudi 13 Juillet</u></dt>
   <dd>Les Estivités &ndash; Blagnac (31)</dd>
   <dt><u>Du Mercredi 23 au Samedi 26 Août</u></dt>
-  <dd>Festival d'Aurillac, Collectif la Toulousaine de Cirque &ndash; Aurillac (15)</dd>
+  <dd>Festival d'Aurillac, Collectif La Toulousaine de Cirque &ndash; Aurillac (15)</dd>
 </dl>
 
 ## Représentations passées
