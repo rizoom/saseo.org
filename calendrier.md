@@ -9,14 +9,22 @@ sidebar_order: 3
 <dl>
   <dt><u>Mercredi 19 Avril</u></dt>
   <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
+  <dt><u>Mercredi 17 Mai</u></dt>
+  <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
   <dt><u>Dimanche 21 Mai</u></dt>
-  <dd>Festi'Boutchou &ndash; Pechbonnieu (31)</dd>
+  <dd>Festi'Bout'Chou &ndash; Pechbonnieu (31)</dd>
   <dt><u>Samedi 27 Mai</u></dt>
   <dd>Graulhons nous dans la rue, mieux vaut Tarn que jamais, Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
   <dt><u>Samedi 3 Juin</u></dt>
   <dd>Fête du Pastel &ndash; Albi (81)</dd>
+  <dt><u>Samedi 24 Juin</u></dt>
+  <dd>Festival de Cugnaux &ndash; Cugnaux (31)</dd> 
+  <dt><u>Vendredi 7 Juillet </u></dt>
+  <dd>Festiv’Arts &ndash; Géhée (36)</dd> 
   <dt><u>Jeudi 13 Juillet</u></dt>
   <dd>Les Estivités &ndash; Blagnac (31)</dd>
+  <dt><u>Du Jeudi 20 au Dimanche 23 Juillet</u></dt>
+  <dd>Festival OFF Chalon dans la Rue &ndash; Chalon-sur-Saône (71)</dd> 
   <dt><u>Du Mercredi 23 au Samedi 26 Août</u></dt>
   <dd>Festival d'Aurillac, Collectif La Toulousaine de Cirque &ndash; Aurillac (15)</dd>
 </dl>
