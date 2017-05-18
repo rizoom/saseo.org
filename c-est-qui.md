@@ -4,7 +4,7 @@ title: C'est qui ?
 sidebar_order: 1
 ---
 
-![Illustration représentant les quatres membres de Saseo]({{ site.baseurl }}/blob/master/public/img/Saseo grand rond roue site2.jpg "Le quatuor")
+![Illustration représentant les quatres membres de Saseo]({{ site.baseurl }}/public/img/Saseo grand rond roue site2.jpg "Le quatuor")
 
 ---
 
