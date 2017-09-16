@@ -4,31 +4,15 @@ title: La compagnie
 sidebar_order: 0
 ---
 
-![Saseo sur scène lors du cabaret de poche]({{ site.baseurl }}/public/img/saseo-main.png "Compagnie Saseo - Cabaret de poche - Création 2016")
+![Saseo sur scène lors du cabaret de poche]({{ site.baseurl }}/public/img/saseo-grand-rond-roue.jpg "Compagnie Saseo - Cabaret de poche - Création 2016")
 
 <p class="message">
-  La Compagnie Saseo est un collectif d'artistes toulousains qui, depuis 2010, s'engage à promouvoir le spectacle vivant et généreux, et la pédagogie dans l'animation. Ils cherchent par leurs actions à stimuler l'épanouissement moral, physique et intellectuel du public et sensibiliser autour de la question du vivre ensemble. Leur adage : « <em>dans la vie tout est important mais rien n'est grave</em> ».
+  La compagnie Saseo est créée en 2010.<br />
+  Elle réunit des artistes toulousains issus de différentes disciplines professionnelles (cirque, clown, théâtre, thérapie, musique, cuisine et boulangerie). C'est dans le jeu, l'humour et la bienveillance qu'ils enrichissent et partagent leurs compétences.<br />
+  Ils étaient, deviennent et demeurent amis.<br />
+  <br />
+  Saseo est une compagnie curieuse, elle s'attache à diffuser sa philosophie à travers le spectacle vivant et la pédagogie.
 </p>
 
-C'est à travers l'humour, la bienveillance et le partage qu'ils s'amusent à développer leurs compétences. Celles-ci regroupent les disciplines du nouveau cirque (acrobatie, jonglerie, portées, aériens, clown et divers états d'expressions), ainsi que la musique, la thérapie et la cuisine.  
-Saseo est une compagnie curieuse, elle s'attache à diffuser sa philosophie à travers le spectacle vivant et la pédagogie.
-
-Ils finissent leur première création « **Antchouki** » en 2012 et participent dans les deux ans à de nombreux festivals (Aurillac, MIMOS, Les monts de la balle, Contempourien, European Juggling Convention).  
-Né par la suite, en 2016, le « **Cabaret de Poche** » !
-
-<dl>
-  <dt>Saseo</dt>
-  <dd>C'est l'emblème que 4 personnes ont choisi pour jouir de la vie.</dd>
-  <dt>Saseo</dt>
-  <dd>C'est le truc que tu ne vis qu'une seule fois et ça suffit.</dd>
-  <dt>Saseo</dt>
-  <dd>C'est un cri de joie, un éclat de rire, la verve en fusion, un point d'exclamation, un volcan en éruption, la feuille d'automne qui tombe (en un peu plus lourd), le claquement de la vague sur le sable, la douche glacée (sauf en hiver), l'accent d'un papé Marseillais, c'est ce qui dépasse et qu'on ne veut plus cacher.</dd>
-  <dt>Saseo</dt>
-  <dd>C'est "<em>la langue qui n'a pas d'école, la nage indienne bien plus que le crawl</em>" (Zebda – Je suis)</dd>
-  <dt>Saseo</dt>
-  <dd>Saseo c'est surtout un collectif issu du Lido (entre des arts du cirque de Toulouse et de la musique toulousaine).</dd>
-</dl>
-
-<blockquote>
-  Les valeurs de SASEO? La bonne humeur, la générosité, le goût du moment présent et le pâté de couennes.
-</blockquote>
+**Ce qu'ils aiment :**
+> Rire de tout et surtout avec tout le monde, rire de soi, rire de rien, rire beaucoup, rire partout, rire trop, rire en dormant, rire debout, rire au vent, rire sérieux, sérieusement rire, s'enriser sans traitrise, s'enticher sans tricher, s'étirer ne pas trier, à pied sur l'étrier, triturer, tituber, essayer tube à essai, assoiffer assécher écumer écluser diviser, dis viser, se rater, roter, roh t'es bête, être au Québec quel beau mec, blanc bec, pète sec, pain dur, dru, têtu, tu t'es tu, toi t'es qui, équi, libre, libre ouvert, lire fermé, rire au nez, honnête, on l'est.

@@ -4,48 +4,40 @@ title: Calendrier
 sidebar_order: 3
 ---
 
-## À venir
+## 2018
 
-<dl>
-  <dt><u>Mercredi 19 Avril</u></dt>
-  <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
-  <dt><u>Mercredi 17 Mai</u></dt>
-  <dd>Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
-  <dt><u>Dimanche 21 Mai</u></dt>
-  <dd>Festi'Bout'Chou &ndash; Pechbonnieu (31)</dd>
-  <dt><u>Samedi 27 Mai</u></dt>
-  <dd>Graulhons nous dans la rue, mieux vaut Tarn que jamais, Graulhet (81) &ndash; dans le cadre de la résidence de médiation culturelle</dd>
-  <dt><u>Samedi 3 Juin</u></dt>
-  <dd>Fête du Pastel &ndash; Albi (81)</dd>
-  <dt><u>Samedi 24 Juin</u></dt>
-  <dd>Festival de Cugnaux &ndash; Cugnaux (31)</dd> 
-  <dt><u>Vendredi 7 Juillet </u></dt>
-  <dd>Festiv’Arts &ndash; Géhée (36)</dd> 
-  <dt><u>Jeudi 13 Juillet</u></dt>
-  <dd>Les Estivités &ndash; Blagnac (31)</dd>
-  <dt><u>Du Jeudi 20 au Dimanche 23 Juillet</u></dt>
-  <dd>Festival OFF Chalon dans la Rue &ndash; Chalon-sur-Saône (71)</dd> 
-  <dt><u>Du Mercredi 23 au Samedi 26 Août</u></dt>
-  <dd>Festival d'Aurillac, Collectif La Toulousaine de Cirque &ndash; Aurillac (15)</dd>
-</dl>
+<p class="message">
+  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
+</p>
 
-## Représentations passées
+---
 
-- **Dimanche 12 Mars** Graulhet (81) -- dans le cadre de la résidence de médiation culturelle
-- **Jeudi 2 Février 2017** Lycée agricole -- Castelnaudary (11)
-- **Du Mardi 17 au Samedi 21 Janvier 2017** Théâtre du Grand Rond -- Toulouse (31)
-- **17 au 21 Août 2016** Festival de rue d'Aurillac -- Aurillac (15)
-- **24 Juillet 2016** Festival de rue de Miremont -- Miremont (31)
-- **23 Juillet 2016** Terre de couleurs -- Daumazan (09)
-- **20 Juillet 2016** Bouillon de culture -- Saillagouse (66)
-- **9 Juillet 2016** Boudu la jongle -- Toulouse (31)
-- **28 Juin au 2 Juillet 2016** Théâtre du Grand Rond -- Toulouse (31)
-- **20 Mai 2016** Ecole de cirque Le Lido -- Toulouse (31)
-- Hangar de la Cépière -- Toulouse (31)
-- Restaurant Bouche à Oreille -- Simorre (32)
-- Pizzeria de Belfort -- Toulouse (31)
-- Epicerie le Récantou -- Toulouse (31)
-- Le KIOSK -- Toulouse (31)
-- Festival de la Nonchalente -- Bréhémont (37)
-- La Brique Rouge -- Toulouse (31)
-- Festival les Utopiennes -- Biès (31)
+## 2017
+
+- **17 au 21 Janvier** -- _Théâtre du Grand Rond_ -- Toulouse (31)
+- **2 Février** -- _Lycée agricole_ -- Castelnaudary (11)
+- **12 Mars** -- _Place Jourdain_ -- Graulhet (81)
+- **19 Avril** -- _Ecole élémentaire de Crins_ -- Graulhet (81)
+- **17 Mai** -- _Ecole élémentaire d'En Gach'_ -- Graulhet (81)
+- **21 Mai** -- _FestiBoutchou_ -- Pechbonnieu
+- **3 Juin** -- _Fête du Pastel_ -- Albi (81)
+- **24 Juin** -- _Festimanoir_ -- Cugnaux (31)
+- **1er Juillet** -- _Lanta_ (31)
+- **7 Juillet** -- _Festiv'arts_ -- Géhée (36)
+- **9 Juillet** -- _Rando spectacle_ -- Puybegon (81)
+- **13 Juillet** -- _Festival Les Estivités_ -- Blagnac (31)
+- **20 au 23 Juillet** -- _Chalon dans la rue_ -- Chalon-sur-Saône (71)
+- **23 au 26 Août** -- _Festival de rue d'Aurillac_ -- Aurillac (15)
+- **9 et 10 Septembre** -- _Festival la Rue des Enfants_ -- Montcuq (46)
+- **23 Septembre** -- _Ouverture de saison culturelle_ -- Labarthe-sur-Lèze (31)
+- **15 Octobre** -- _Fête du quartier St Simon_ -- Toulouse (31)
+- **24 au 28 Octobre** -- _Théâtre du Grand Rond_ -- Toulouse (31)
+- **24 Novembre** -- _Saison culturelle_ -- Gaillac (81)
+
+---
+
+## 2016
+
+<p class="message">
+  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
+</p>
