@@ -6,6 +6,27 @@ sidebar_order: 3
 
 ## 2018
 
+- **19 et 20 Janvier** -- Option_Saison culturelle communauté de communes_ -- Ahun (23)
+- **24 Mars** -- _soirée cabaret Eclat de Printemps_ -- Beaumont de Lomagne (82)
+- **12 et 13 Mai** -- _Fêtes de la Tour Blanche_ -- Issoudun (36)
+- **14 au 18 Mai** -- Option_Les Préamballes_ -- Verrières-en-Forez (42)
+- **19 et 20 Mai** -- Option_Festival Pay'ta Tong_ -- La Ferrière (85)
+- **8 et 9 Juin** -- _Hurluberlu_ -- Sainte-Sigolène (43)
+- **15 Juin** -- _Saison culturelle_ -- Limogne-en-Quercy (46)
+- **28 Juin** -- Option_Festival Le Grand Bain_ -- Annecy (74)
+- **30 Juin** -- Option_Festival_ -- Chatillon sur Chalaronne (01)
+- **1er Juillet** -- Option_Festival_ -- Alixan (26)
+- **3 Juillet** -- Option_Festival Kalealdia_ -- Bilbao (Espagne)
+- **5 au 8 Juillet** -- Option_Festival Sorties de Bain (IN)_ -- Granville (50)
+- **13 Juillet** -- Option_Festival Eclats de Rue_ -- Caen (14)
+- **14 Juillet** -- Option_Festival Côté Cour, Côté Jardin_ -- Bernay (27)
+- **24 et 25 Juillet** -- Option_Festival_ -- Niort (79)
+- **24 et 25 Juillet** -- Option_Festival_ -- Niort (79)
+- **29 Juillet** -- Option_Festival_ -- Chamrousse (38)
+- **12 Août** -- Option_Festival l'écho du Caquetoire_ -- Cherverny (41)
+- **22 au 25 Août** -- _Festival d'Aurillac avec la Toulousaine de Cirque_ -- Aurillac (15)
+- **8 et 9 Septembre** -- Option_Saison culturelle_ -- Castanet-Tolosan (31)
+
 <p class="message">
   <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
 </p>
@@ -33,6 +54,9 @@ sidebar_order: 3
 - **15 Octobre** -- _Fête du quartier St Simon_ -- Toulouse (31)
 - **24 au 28 Octobre** -- _Théâtre du Grand Rond_ -- Toulouse (31)
 - **24 Novembre** -- _Saison culturelle_ -- Gaillac (81)
+- **10 Décembre** -- _Comité d'entreprise_ -- Figeac (46)
+- **20 Décembre** -- _Saison culturelle_ -- Vaour (81)
+- **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
 
 ---
 
