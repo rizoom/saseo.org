@@ -18,7 +18,6 @@ sidebar_order: 3
 - **30 Juin** -- _Option, Festival_ -- Chatillon sur Chalaronne (01)
 - **3 Juillet** -- _Option, Festival Kalealdia_ -- Bilbao (Espagne)
 - **5 au 8 Juillet** -- _Option, Festival Sorties de Bain (OFF)_ -- Granville (50)
-- **13 Juillet** -- _Option, Festival Eclats de Rue_ -- Caen (14)
 - **14 Juillet** -- _Option,Festival Côté Cour, Côté Jardin_ -- Bernay (27)
 - **19 au 21 Juillet** -- _Option, Festival Festimôme_ -- Aubagne (13)
 - **24 et 25 Juillet** -- _Option, Festival_ -- Niort (79)
