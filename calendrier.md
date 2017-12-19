@@ -22,7 +22,6 @@ sidebar_order: 3
 - **14 Juillet** -- _Option,Festival Côté Cour, Côté Jardin_ -- Bernay (27)
 - **19 au 21 Juillet** -- _Option, Festival Festimôme_ -- Aubagne (13)
 - **24 et 25 Juillet** -- _Option, Festival_ -- Niort (79)
-- **24 et 25 Juillet** -- _Option, Festival_ -- Niort (79)
 - **28 Juillet** -- _Option, Festival Ecaussystème_ -- Gignac-en-Quercy (46)
 - **29 Juillet** -- _Option, Festival_ -- Chamrousse (38)
 - **3 au 5 Août** -- _Option, Fest'arts (OFF)_ -- Libourne (33)
