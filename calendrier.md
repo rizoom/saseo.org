@@ -21,7 +21,7 @@ sidebar_order: 3
 - **2 Juillet** -- _Festival Kalealdia_ -- Bilbao (Espagne)
 - **5 au 8 Juillet** -- _Option, Festival Sorties de Bain (OFF)_ -- Granville (50)
 - **12 Juillet** -- _Festival_ -- Digoin (71)
-- **19 au 21 Juillet** -- _Festival Festimôme_ -- Aubagne (13)
+- **19 et 20 Juillet** -- _Festival Festimôme_ -- Aubagne (13)
 - **24 et 25 Juillet** -- _Festival_ -- Niort (79)
 - **28 Juillet** -- _Festival Ecaussystème_ -- Gignac-en-Quercy (46)
 - **29 Juillet** -- _Option, Festival_ -- Chamrousse (38)
