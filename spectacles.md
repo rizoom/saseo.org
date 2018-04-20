@@ -55,12 +55,16 @@ parts:
   <div class="mb-1">
     <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">60 minutes</span>
   </div>
-  <dl class="ml-2 mb-0">
+  <dl class="ml-2 mb-1">
     <dt>De et avec</dt>
     <dd>Florian Carrié, Camille Fiorile, Léo Mounier, Olivier Rodier</dd>
     <dt>Regard extérieur</dt>
     <dd class="mb-0">Pierre Déaux</dd>
   </dl>
+  <div class="mt-2 ml-2 mb-0">
+    <a title="Revue de presse Saseo pour Cabaret de Poche" href="/public/pdf/revue-presse-saseo-cabaret-de-poche.pdf" target="_blank">Télécharger la revue de presse.</a>
+  </div>
+    
 </div>
 
 > ​Un petit spectacle, enfin un grand cabaret, format de poche ou plutôt un grand spectacle sous forme de cabaret mais pas n'importe quel cabaret.  
