@@ -14,6 +14,8 @@ parts:
 ## Antchouki!
 <span class="subtitle">Cirque bon vivant</span>
 
+![La troupe Antchouki au complet autour de la fameuse table]({{ site.baseurl }}/public/img/antchouki-spectacle.png)
+
 <div class="message">
   <div class="mb-1">
     <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2013 <sup><em>SOLD OUT</em></sup></span>
@@ -31,10 +33,6 @@ parts:
     <dd class="mb-0">Judith Rousseau</dd>
   </dl>
 </div>
-
-{% comment %}
-TODO include illustration
-{% endcomment %}
 
 > 6 hommes, une table, un spectacle, des rythmes, des rimes et des claques.  
 > On s’invite, on invite, on partage, ça chante, saute et salue.  
@@ -65,10 +63,6 @@ TODO include illustration
   </dl>
 </div>
 
-{% comment %}
-TODO include illustration ?
-{% endcomment %}
-
 > ​Un petit spectacle, enfin un grand cabaret, format de poche ou plutôt un grand spectacle sous forme de cabaret mais pas n'importe quel cabaret.  
 > Ici tous les numéros sont tirés au hasard.  
 > Oui on a bien dit au HASARD !!!  
@@ -83,32 +77,37 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Waké TébO
 <span class="subtitle">Duo acrobatique</span>
 
+![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/wake-tebo-spectacle.jpg)
+
 <div class="message">
   <div class="mb-1">
     <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2017 (EN COURS)</span>
   </div>
   <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-info-circle" aria-hidden="true"></i><span class="ml-1">A partir de 8 ans</span>
+    <i class="mx-1 fa fa-fw fa-lg fa-info-circle" aria-hidden="true"></i><span class="ml-1">Tout public</span>
   </div>
   <div class="mb-1">
     <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">50 minutes</span>
   </div>
-  <dl class="ml-2 mb-0">
+  <dl class="ml-2 mb-1">
     <dt>De et avec</dt>
-    <dd>Camille Fiorile, Léo Mounier</dd>
-    <dt>Regard extérieur</dt>
-    <dd>Sophie Huby</dd>
-    <dt>Aide à la chorégraphie</dt>
-    <dd class="mb-0">Charles Rousseau</dd>
+    <dd class="mb-0">Camille Fiorile, Léo Mounier</dd>
   </dl>
+  <div class="mt-2 ml-2 mb-0">
+    <em>WAké TébO, Une production TéciBeL</em>
+  </div>
 </div>
 
-{% comment %}
-TODO include illustration
-{% endcomment %}
+Ils sont deux  
+Jaune et bleu  
+Ils ont le beat en tête  
+Le bounce et des baskets  
 
-​Deux êtres s'accompagnent sur le chemin de la vie et cherchent à atteindre une symbiose des plus haut degrés.  
-Toutefois, les écarts de l'un entraînent la perdition de l'autre, et, quand le déséquilibre est en place, l'individualité refait surface, l'unité se fissure et laisse naître l'inquiétude d'être soi.
+Elle vient d'ici  
+Lui vient d'ailleurs  
+Comme à chaque fois  
+Ils se retrouvent là  
+Et dansent, dansent, dansent  
 
 > WAké TébO, une fenêtre ouverte sur l'identité, la relation, l'amour et la solitude.  
 > Un duo acrobatique à tendance symbiotique, chorégraphique et aussi un petit peu poétique.

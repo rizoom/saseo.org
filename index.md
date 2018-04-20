@@ -4,6 +4,16 @@ title: La compagnie
 sidebar_order: 0
 ---
 
+<p class="message">
+  <i class="fa fa-info" aria-hidden="true"></i><span class="ml-2"><strong>Nouveautés</strong></span><br/>
+  <br/>
+  <a title="Cie SASEO - Le Cabaret de Poche - Teaser officiel" href="https://youtu.be/B7KMIM-vebs" target="_blank">Voir le teaser officiel du spectacle <em>Le Cabaret de Poche</em>.</a><br/>
+
+  <a title="Revue de presse Saseo pour Cabaret de Poche" href="/public/pdf/revue-presse-saseo-cabaret-de-poche.pdf" target="_blank">Télécharger la revue de presse.</a>
+</p>
+
+---
+
 ![Saseo sur scène lors du cabaret de poche]({{ site.baseurl }}/public/img/saseo-grand-rond-roue.jpg "Compagnie Saseo - Cabaret de poche - Création 2016")
 
 <p class="message">

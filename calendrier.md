@@ -32,10 +32,6 @@ sidebar_order: 3
 - **22 et 23 Septembre** -- _Option, Festival_ -- Carmaux (81)
 - **29 Septembre** -- _Option, Festival du jeu_ -- Toulouse (31)
 
-<p class="message">
-  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
-</p>
-
 ---
 
 ## 2017
