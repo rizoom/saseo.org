@@ -19,7 +19,7 @@ sidebar_order: 3
 - **28 Juin** -- _Festival Le Grand Bain_ -- Annecy (74)
 - **30 Juin** -- _Option, Festival Briqu'arts_ -- Toulouse (31)
 - **2 Juillet** -- _Festival Kalealdia_ -- Bilbao (Espagne)
-- **7 Juillet** -- _Festival ContentPouRien_ -- Buchelay (78)
+- **7 Juillet** -- _Festival ContentPouRien_ -- Mantes-la-Ville (78)
 - **12 Juillet** -- _Festival_ -- Digoin (71)
 - **19 et 20 Juillet** -- _Festival Festimôme_ -- Aubagne (13)
 - **24 et 25 Juillet** -- _Festival_ -- Niort (79)
