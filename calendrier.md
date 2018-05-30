@@ -17,7 +17,7 @@ sidebar_order: 3
 - **8 et 9 Juin** -- _Festival Chaperlipopette_ -- Sainte-Sigolène (43)
 - **15 Juin** -- _Saison culturelle_ -- Limogne-en-Quercy (46)
 - **28 Juin** -- _Festival Le Grand Bain_ -- Annecy (74)
-- **30 Juin** -- _Option, Festival Briqu'arts_ -- Toulouse (31)
+- **30 Juin** -- _Festival Briqu'arts_ -- Toulouse (31)
 - **2 Juillet** -- _Festival Kalealdia_ -- Bilbao (Espagne)
 - **7 Juillet** -- _Festival ContentPouRien_ -- Mantes-la-Ville (78)
 - **12 Juillet** -- _Festival_ -- Digoin (71)
