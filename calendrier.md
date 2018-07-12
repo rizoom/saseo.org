@@ -31,9 +31,10 @@ sidebar_order: 3
 - **22 au 25 Août** -- _Festival d'Aurillac avec la Toulousaine de Cirque_ -- Aurillac (15)
 - **30 Août** -- _Festival IN Au Bonheur des Mômes_ -- Le Grand Bornand (74)
 - **8 et 9 Septembre** -- _Fête aux parcs_ -- Castanet-Tolosan (31)
+- **11 Septembre** -- _Option, rentrée nouvelle promotion ENAP_ -- Agen (47)
+- **16 Septembre** -- _Saison culturelle_ -- Saint-Alban (31)
 - **22 et 23 Septembre** -- _Festival_ -- Carmaux (81)
 - **18 Novembre** -- _Saison culturelle_ -- Centre Culturel Saint-Simon, Toulouse (31)
-- **12 Décembre** -- _Option, Fête de Noël_ -- La Brique Rouge, Toulouse (31)
 
 ---
 
