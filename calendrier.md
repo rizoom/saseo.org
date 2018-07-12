@@ -30,6 +30,7 @@ sidebar_order: 3
 - **12 Août** -- _Festival l'écho du Caquetoire_ -- Cherverny (41)
 - **22 au 25 Août** -- _Festival d'Aurillac avec la Toulousaine de Cirque_ -- Aurillac (15)
 - **30 Août** -- _Festival IN Au Bonheur des Mômes_ -- Le Grand Bornand (74)
+- **1er Septembre** -- _Option, Festi'Villeneuve_ -- Villeneuve-lès-Bouloc (31)
 - **8 et 9 Septembre** -- _Fête aux parcs_ -- Castanet-Tolosan (31)
 - **11 Septembre** -- _Option, rentrée nouvelle promotion ENAP_ -- Agen (47)
 - **16 Septembre** -- _Saison culturelle_ -- Saint-Alban (31)
