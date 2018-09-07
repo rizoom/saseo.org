@@ -32,7 +32,6 @@ sidebar_order: 3
 - **30 Août** -- _Festival IN Au Bonheur des Mômes_ -- Le Grand Bornand (74)
 - **1er Septembre** -- _Festi'Villeneuve_ -- Villeneuve-lès-Bouloc (31)
 - **8 et 9 Septembre** -- _Fête aux parcs_ -- Castanet-Tolosan (31)
-- **4 Septembre** -- _Option, rentrée nouvelle promotion ENAP_ -- Agen (47)
 - **16 Septembre** -- _Saison culturelle_ -- Saint-Alban (31)
 - **22 et 23 Septembre** -- _Festival_ -- Carmaux (81)
 - **18 Novembre** -- _Saison culturelle_ -- Centre Culturel Saint-Simon, Toulouse (31)
