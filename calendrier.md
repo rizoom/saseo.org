@@ -4,6 +4,14 @@ title: Calendrier
 sidebar_order: 3
 ---
 
+## 2019
+
+<p class="message">
+  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
+</p>
+
+---
+
 ## 2018
 
 - **10 Février** -- _clôture Festival de créations télévisuelles_ -- Bagnères de Luchon (31)
@@ -35,6 +43,9 @@ sidebar_order: 3
 - **16 Septembre** -- _Saison culturelle_ -- Saint-Alban (31)
 - **22 et 23 Septembre** -- _Festival_ -- Carmaux (81)
 - **18 Novembre** -- _Saison culturelle_ -- Centre Culturel Saint-Simon, Toulouse (31)
+- **1er Décembre** -- _Comité d'entreprise_ -- Lahage (31)
+- **18 Décembre** -- _Représentations scolaires - Fête de fin d'année_ -- Caraman (31)
+- **20 Décembre** -- _Représentation scolaire - Fête de fin d'année_ -- Montrabé (31)
 
 ---
 
