@@ -6,9 +6,15 @@ sidebar_order: 3
 
 ## 2019
 
-<p class="message">
-  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
-</p>
+- **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
+- **19, 20 Mars** -- _(Option) Festival Mauvaises Graines_ -- Chadrac (43)
+- **7, 8 Juin** -- _(Option) Fête de la Morue_ -- Bègles (33)
+- **22 Juin** -- _Fête de la Morue_ -- Neuvic (24)
+- **30 Juin** -- _Quel Cirque_ -- Alixan (26)
+- **8 au 10 Août** -- _IN Fest'arts_ -- Libourne (33)
+- **14 Août** -- _(Option) Les Mercredis du Clausel_ -- Vabre (81)
+- **15 au 17 Août** -- _(Option) Musicalarue_ -- Luxey (40)
+- **20 au 22 Septembre** -- _(Option) Festival de rue de La Crau_ -- La Crau (83)
 
 ---
 
@@ -45,6 +51,7 @@ sidebar_order: 3
 - **18 Novembre** -- _Saison culturelle_ -- Centre Culturel Saint-Simon, Toulouse (31)
 - **1er Décembre** -- _Comité d'entreprise_ -- Lahage (31)
 - **18 Décembre** -- _Représentations scolaires - Fête de fin d'année_ -- Caraman (31)
+- **19 Décembre** -- _Fête de fin d'année Maison d'enfants La Landelle_ -- Palleville (81)
 - **20 Décembre** -- _Représentation scolaire - Fête de fin d'année_ -- Montrabé (31)
 
 ---
