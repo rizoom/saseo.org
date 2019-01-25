@@ -8,7 +8,7 @@ sidebar_order: 3
 
 - **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
 - **19 Mai** -- _(Option) Fête des enfants_ -- Beaumont-de-Lomagne (82)
-- **7, 8 Juin** -- _(Option) Fête de la Morue_ -- Bègles (33)
+- **9 Juin** -- _(Option) Festival Pay'ta Tong_ -- La Ferrière (85)
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
 - **13 et 14 Juillet** -- _Festival Nuits de Rêve_ -- Rosières (43)
@@ -16,7 +16,7 @@ sidebar_order: 3
 - **8 au 10 Août** -- _IN Fest'arts_ -- Libourne (33)
 - **14 Août** -- _Les Mercredis du Clausel_ -- Vabre (81)
 - **15 au 17 Août** -- _Festival Musicalarue_ -- Luxey (40)
-- **21 au 24 Août** -- _(Option) Festival d'Aurillac_ -- Aurillac (15)
+- **21 au 24 Août** -- _Festival d'Aurillac_ -- Aurillac (15)
 - **31 Août** -- _(Option) Festival Détours en Tournugeois_ -- Tournus (71)
 - **13 Septembre** -- _Ouverture de Saison culturelle_ -- Villenave-d'Ornon (33)
 - **14 Septembre** -- _Ouverture de Saison culturelle_ -- Cestas (33)
