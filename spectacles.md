@@ -63,6 +63,8 @@ parts:
   </dl>
   <div class="mt-2 ml-2 mb-0">
     <a title="Revue de presse Saseo pour Cabaret de Poche" href="/public/pdf/revue-presse-saseo-cabaret-de-poche.pdf" target="_blank">Télécharger la revue de presse.</a>
+    
+   <dd>Le spectacle Cabaret de Poche a reçu le prix "Coup de Coeur" du OFF à Fest'arts (Libourne) en 2018.</dd>
   </div>
     
 </div>
