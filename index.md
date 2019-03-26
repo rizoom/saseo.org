@@ -11,16 +11,22 @@ sidebar_order: 0
 ---
 
 <p class="message">
-  La compagnie Saseo est créée en 2010.<br />
-  Elle réunit des artistes toulousains issus de différentes disciplines professionnelles (cirque, clown, théâtre, thérapie, musique, cuisine et boulangerie). C'est dans le jeu, l'humour et la bienveillance qu'ils enrichissent et partagent leurs compétences.<br />
-  Ils étaient, deviennent et demeurent amis.<br />
+  SASEO est une compagnie toulousaine crée en 2010.<br />
+  Elle réunie des artistes issus du cirque et de la musique.<br />
+  Ils aiment l'humain, l'humour, l'harmonie et l'horizon.<br />
+  Ils essayent d'être simples, authentiques, détendus et empathiques.<br />
+  Ils s'épanouissent dans le spectacle vivant, réelle source d'expérimentation, de transmission, d'émotions et d'apaisement.<br />
   <br />
-  Saseo est une compagnie curieuse, elle s'attache à diffuser sa philosophie à travers le spectacle vivant et la pédagogie.
+  C'est une compagnie curieuse, rieuse et prometteuse !<br />
+  <br />
+  SASEO c'est l'emblème que 4 personnes ont choisi pour jouir de la vie.<br />
+  SASEO c'est le truc que tu ne vis qu'une seule fois et ça suffit.<br />
+  SASEO c'est un cri de joie, un éclat de rire, la verve en fusion, un point d'exclamation, un volcan en éruption, la feuille d'automne qui tombe (en un peu plus lourd), le claquement de la vague sur le sable, la douche glacée (sauf en hiver), l'accent d'un papé Marseillais, c'est ce qui dépasse et qu'on ne veut plus cacher.
 </p>
 
 ![Saseo sur scène lors du cabaret de poche]({{ site.baseurl }}/public/img/saseo-grand-rond-roue.jpg "Compagnie Saseo - Cabaret de poche - Création 2016")
 
-Retrouvez tous les spectacles de Saseo sur [la page dédiée]({{ site.baseurl }}/spectacles).  
+Retrouvez tous les spectacles de SASEO sur [la page dédiée]({{ site.baseurl }}/spectacles).  
 Pour toute question, remarque et complément d'informations, [n'hésitez pas à nous contacter]({{ site.baseurl }}/contact).
 
 ---
