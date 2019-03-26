@@ -100,7 +100,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
     <dd class="mb-0">Camille Fiorile, Léo Mounier</dd>
   </dl>
   <div class="mt-2 ml-2 mb-0">
-    <em>Une poésie qui s’écrit à l’encre du coeur, du jeu, du rire et du groove.</em>
+    <em>Une poésie qui s’écrit à l’encre du coeur, du rire et du jeu.</em>
   </div>
 </div>
 
