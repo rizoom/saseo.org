@@ -7,8 +7,8 @@ parts:
     anchor: antchouki
   - title: Cabaret de poche
     anchor: cabaret-de-poche
-  - title: Waké TébO
-    anchor: waké-tébo
+  - title: Tandem
+    anchor: tandem
 ---
 
 ## Antchouki!
@@ -80,40 +80,44 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 
 ---
 
-## Waké TébO
-<span class="subtitle">Duo acrobatique</span>
+## Tandem
+<span class="subtitle">Duo à tendance acrobatique et poétique</span>
 
 ![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/wake-tebo-spectacle.jpg)
 
 <div class="message">
   <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2017 (EN COURS)</span>
+    <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2019</span>
   </div>
   <div class="mb-1">
     <i class="mx-1 fa fa-fw fa-lg fa-info-circle" aria-hidden="true"></i><span class="ml-1">Tout public</span>
   </div>
   <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">50 minutes</span>
+    <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">55 minutes</span>
   </div>
   <dl class="ml-2 mb-1">
     <dt>De et avec</dt>
     <dd class="mb-0">Camille Fiorile, Léo Mounier</dd>
   </dl>
   <div class="mt-2 ml-2 mb-0">
-    <em>WAké TébO, Une production TéciBeL</em>
+    <em>Une poésie qui s’écrit à l’encre du coeur, du jeu, du rire et du groove.</em>
   </div>
 </div>
 
-Ils sont deux  
-Jaune et bleu  
-Ils ont le beat en tête  
-Le bounce et des baskets  
+> Michelle vient d'ici, où même quand il pleut elle reste là.  
+> Michel vient d'ailleurs, d'une vallée où l'heure ne se compte pas.  
+> Michelle et Michel font la paire.  
+> Où qu’elle aille, il la suit. Et où qu’il aille, elle le suit.  
+> Aller où ? Ils l'ignorent.  
+> Ensemble ils errent, cherchent, tentent, repoussent, s'accrochent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.  
+> Jouer un peu, beaucoup, passionnément, à la folie, pas du tout ... pourvu que la joie demeure.  
+> A deux, Tandem ad vitam !  
+  
+> C’est l’histoire de deux corps maladroits et spectaculaires qui s'accompagnent sur le chemin de la vie, à la poursuite du vent, d'un nuage blanc, de leurs rêves d'enfant. Deux corps complices qui poussent avec innocence et pudeur un grand cri d’amour et de fraternité.  
+> C’est puissant. C’est tendre.  
+> Merveilleusement fragile et imparfait.  
+> C’est humain.
 
-Elle vient d'ici  
-Lui vient d'ailleurs  
-Comme à chaque fois  
-Ils se retrouvent là  
-Et dansent, dansent, dansent  
-
-> WAké TébO, une fenêtre ouverte sur l'identité, la relation, l'amour et la solitude.  
-> Un duo acrobatique à tendance symbiotique, chorégraphique et aussi un petit peu poétique.
+> Michelle : "Micheeel"  
+> Michel : "Oui ?"  
+> Michelle : "Je crois que j'ai une idée"
