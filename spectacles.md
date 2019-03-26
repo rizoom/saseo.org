@@ -83,7 +83,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Tandem
 <span class="subtitle">Duo à tendance acrobatique et poétique</span>
 
-![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/wake-tebo-spectacle.jpg)
+![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/IMG.jpg)
 
 <div class="message">
   <div class="mb-1">
