@@ -10,6 +10,7 @@ sidebar_order: 3
 - **19 Mai** -- _Fête des enfants_ -- Beaumont-de-Lomagne (82)
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
+- **12 ou 20 Juillet** -- _(Option) Festival Emotions de rue_ -- Voiron (38)
 - **13 et 14 Juillet** -- _Festival Nuits de Rêve_ -- Rosières (43)
 - **27 Juillet** -- _Festival Les Goûts d'Art Gais_ -- Goudargues (30)
 - **3 et 4 Août** -- _Festival Les beaux dimanches du Mont Noir_ -- Hazebrouck (59)
@@ -17,12 +18,14 @@ sidebar_order: 3
 - **14 Août** -- _Les Mercredis du Clausel_ -- Vabre (81)
 - **15 au 17 Août** -- _Festival Musicalarue_ -- Luxey (40)
 - **21 au 24 Août** -- _Festival d'Aurillac_ -- Aurillac (15)
+- **30 Août** -- _Festival Chahut au Château_ -- Gévingey (39)
 - **31 Août** -- _Festival Détours en Tournugeois_ -- Tournus (71)
 - **13 Septembre** -- _Ouverture de Saison culturelle_ -- Villenave-d'Ornon (33)
 - **14 Septembre** -- _Ouverture de Saison culturelle_ -- Cestas (33)
 - **20 au 22 Septembre** -- _(Option) Festival de rue de La Crau_ -- La Crau (83)
-- **13 Octobre** -- _(Option) Saison culturelle_ -- Labastide-Saint-Pierre (82)
+- **13 Octobre** -- _Saison culturelle_ -- Labastide-Saint-Pierre (82)
 - **24 et 25 Octobre** -- _(Option) Festival Spok_ -- Pont-L'abbée (29)
+- **22 Novembre** -- _Soirée Cabaret MJC Reynerie_ -- Toulouse (31)
 
 ---
 
