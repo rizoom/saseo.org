@@ -4,10 +4,18 @@ title: Calendrier
 sidebar_order: 3
 ---
 
+## Spectacles
+
+- Date du **Cabaret de poche**
+- {:.tandem} Date de **tandem**
+
+--
+
 ## 2019
 
 - **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
 - **19 Mai** -- _Fête des enfants_ -- Beaumont-de-Lomagne (82)
+- {:.tandem} **8 Juin** -- _Festival Les utopiennes_ -- Biès (31)
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
 - **12 ou 20 Juillet** -- _(Option) Festival Emotions de rue_ -- Voiron (38)
@@ -90,12 +98,4 @@ sidebar_order: 3
 - **24 Novembre** -- _Saison culturelle_ -- Gaillac (81)
 - **10 Décembre** -- _Comité d'entreprise_ -- Figeac (46)
 - **20 Décembre** -- _Saison culturelle_ -- Vaour (81)
-- {:.tandem} **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
-
----
-
-## 2016
-
-<p class="message">
-  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span class="ml-2">En construction...</span>
-</p>
+- **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
