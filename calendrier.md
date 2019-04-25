@@ -90,7 +90,7 @@ sidebar_order: 3
 - **24 Novembre** -- _Saison culturelle_ -- Gaillac (81)
 - **10 Décembre** -- _Comité d'entreprise_ -- Figeac (46)
 - **20 Décembre** -- _Saison culturelle_ -- Vaour (81)
-- **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
+- {:.tandem} **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
 
 ---
 
