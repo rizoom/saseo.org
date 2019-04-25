@@ -9,7 +9,7 @@ sidebar_order: 3
 - Date du **Cabaret de poche**
 - {:.tandem} Date de **tandem**
 
---
+---
 
 ## 2019
 
