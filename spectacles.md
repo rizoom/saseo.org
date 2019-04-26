@@ -83,7 +83,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Tandem
 <span class="subtitle">Duo à tendance acrobatique et poétique</span>
 
-![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/AFFICHE TANDEM signé.jpg)
+![Affiche du spectacle tandem]({{ site.baseurl }}/public/img/affiche-tandem-signe.jpg)
 
 <div class="message">
   <div class="mb-1">
