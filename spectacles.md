@@ -83,7 +83,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Tandem
 <span class="subtitle">Duo à tendance acrobatique et poétique</span>
 
-![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/IMG.jpg)
+![Duo Camille en jaune, Léo en bleu]({{ site.baseurl }}/public/img/AFFICHE TANDEM signé.jpg)
 
 <div class="message">
   <div class="mb-1">
@@ -104,20 +104,19 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
   </div>
 </div>
 
-> Michelle vient d'ici, où même quand il pleut elle reste là.  
+> Michèle vient d'ici, où même quand il pleut elle reste là.  
 > Michel vient d'ailleurs, d'une vallée où l'heure ne se compte pas.  
-> Michelle et Michel font la paire.  
+> Michèle et Michel font la paire.  
 > Où qu’elle aille, il la suit. Et où qu’il aille, elle le suit.  
-> Aller où ? Ils l'ignorent.  
-> Ensemble ils errent, cherchent, tentent, repoussent, s'accrochent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.  
-> Jouer un peu, beaucoup, passionnément, à la folie, pas du tout ... pourvu que la joie demeure.  
-> A deux, Tandem ad vitam !  
+> Aller où ? Ils savent qu'ils ne le savent pas.      
+> C'est déjà un premier pas 
   
-> C’est l’histoire de deux corps maladroits et spectaculaires qui s'accompagnent sur le chemin de la vie, à la poursuite du vent, d'un nuage blanc, de leurs rêves d'enfant. Deux corps complices qui poussent avec innocence et pudeur un grand cri d’amour et de fraternité.  
+> Deux corps spectaculaires et maladroits s'accompagnent sur le chemin de la vie, à la poursuite du vent, de leurs rêves d'enfants, de la vie vraiment. Ensemble ils observent, cherchent, tentent, repoussent, s'accrochent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.
+> Deux corps complices qui poussent avec innocence et pudeur un grand cri d’amour et de fraternité.  
 > C’est puissant. C’est tendre.  
 > Merveilleusement fragile et imparfait.  
 > C’est humain.
 
-> Michelle : "Micheeel"  
+> Michèle : "Micheeel"  
 > Michel : "Oui ?"  
-> Michelle : "Je crois que j'ai une idée"
+> Michèle : "Je crois que j'ai une idée"
