@@ -6,8 +6,8 @@ sidebar_order: 3
 
 ## Spectacles
 
-- Date du **Cabaret de poche**
-- {:.tandem} Date de **tandem**
+- **Cabaret de poche**
+- {:.tandem} **Tandem**
 
 ---
 
@@ -15,11 +15,14 @@ sidebar_order: 3
 
 - **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
 - **19 Mai** -- _Fête des enfants_ -- Beaumont-de-Lomagne (82)
+- {:.tandem} **21 Mai au 1 Juin** -- _Théâtre du Grand Rond_ -- Toulouse (31)
 - {:.tandem} **8 Juin** -- _Festival Les utopiennes_ -- Biès (31)
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
+- {:.tandem} **7 Juillet** -- _Boudu la jongle_ -- Toulouse (31)
 - **12 ou 20 Juillet** -- _(Option) Festival Emotions de rue_ -- Voiron (38)
 - **13 et 14 Juillet** -- _Festival Nuits de Rêve_ -- Rosières (43)
+- {:.tandem} **21 Juillet** -- _Le Bouche A Oreille_ -- Simorre (32)
 - **27 Juillet** -- _Festival Les Goûts d'Art Gais_ -- Goudargues (30)
 - **3 et 4 Août** -- _Festival Les beaux dimanches du Mont Noir_ -- Hazebrouck (59)
 - **8 au 10 Août** -- _IN Fest'arts_ -- Libourne (33)
