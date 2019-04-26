@@ -100,7 +100,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
     <dd class="mb-0">Camille Fiorile, Léo Mounier</dd>
   </dl>
   <div class="mt-2 ml-2 mb-0">
-    <em>Une poésie qui s’écrit à l’encre du coeur, du rire et du jeu.</em>
+    <em>Une pièce où l'essence du geste et de la parole devient quête.</em>
   </div>
 </div>
 
@@ -111,12 +111,11 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 > Aller où ? Ils savent qu'ils ne le savent pas.      
 > C'est déjà un premier pas 
   
-> Deux corps spectaculaires et maladroits s'accompagnent sur le chemin de la vie, à la poursuite du vent, de leurs rêves d'enfants, de la vie vraiment. Ensemble ils observent, cherchent, tentent, repoussent, s'accrochent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.
+> Deux corps spectaculaires et maladroits s'accompagnent sur le chemin de la vie, à la poursuite du vent, de leurs rêves d'enfants, de la vie vraiment. Ensemble ils observent, cherchent, tentent, repoussent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.
 > Deux corps complices qui poussent avec innocence et pudeur un grand cri d’amour et de fraternité.  
 > C’est puissant. C’est tendre.  
 > Merveilleusement fragile et imparfait.  
 > C’est humain.
 
-> Michèle : "Micheeel"  
-> Michel : "Oui ?"  
-> Michèle : "Je crois que j'ai une idée"
+> <em>"Mesurer notre chance de vivre est souvent une tâche difficile. Et pourtant si simple d'accès. C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
+Celles qui relèvent nos têtes engourdies par les tracas quotidiens."</em>
