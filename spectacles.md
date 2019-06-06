@@ -118,6 +118,6 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 > Leur souffle est une histoire, dans cette histoire résonne un chant et de ce chant renaît l'espoir.  
 
 
-> <em>"Mesurer notre chance d'exister est souvent une tâche difficile. 
+> <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
 C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
-Celle qui réveille en nous le courage, le goût du risque, l'envie de vivre."</em>
+Celle qui réveille en nous le courage, le goût du risque, l'envie d'exister."</em>
