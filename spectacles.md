@@ -104,18 +104,18 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
   </div>
 </div>
 
-> Elle est là. Lui aussi.
-> Un regard et le voyage peut commencer. 
-> Deux corps spectaculaires et maladroits s'accompagnent, se rassurent, s’élèvent sur le chemin de l'existence.
-> Deux êtres complices poussent avec innocence et pudeur un grand cri d’amour.
-> Traversés par des élans intimes, ou de joyeux éclats, ils vont saisir ce qui est là.
-> Une quête poétique, de clarté et d'harmonie.
-> C’est puissant.
-> C’est tendre.
-> Merveilleusement fragile.
+> Elle est là. Lui aussi.  
+> Un regard et le voyage peut commencer.  
+> Deux corps spectaculaires et maladroits s'accompagnent, se rassurent, s’élèvent sur le chemin de l'existence.  
+> Deux êtres complices poussent avec innocence et pudeur un grand cri d’amour.  
+> Traversés par des élans intimes, ou de joyeux éclats, ils vont saisir ce qui est là.  
+> Une quête poétique, de clarté et d'harmonie.  
+> C’est puissant.  
+> C’est tendre.  
+> Merveilleusement fragile.  
 
-> Leur silence est une porte, derrière cette porte un paysage, c'est l'horizon qui vous transporte.
-> Leur souffle est une histoire, dans cette histoire résonne un chant et de ce chant renaît l'espoir.
+> Leur silence est une porte, derrière cette porte un paysage, c'est l'horizon qui nous transporte.  
+> Leur souffle est une histoire, dans cette histoire résonne un chant et de ce chant renaît l'espoir.  
 
 
 > <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
