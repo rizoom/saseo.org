@@ -81,7 +81,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ---
 
 ## Tandem
-<span class="subtitle">Duo à tendance acrobatique et poétique</span>
+<span class="subtitle">Duo poétique</span>
 
 ![Affiche du spectacle tandem]({{ site.baseurl }}/public/img/affiche-tandem-signe.jpg)
 
@@ -100,22 +100,24 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
     <dd class="mb-0">Camille Fiorile, Léo Mounier</dd>
   </dl>
   <div class="mt-2 ml-2 mb-0">
-    <em>Une pièce où l'essence du geste et de la parole devient quête.</em>
+    <em>Tandem, un envol sauvage vers les sommets</em>
   </div>
 </div>
 
-> Michèle vient d'ici, où même quand il pleut elle reste là.  
-> Michel vient d'ailleurs, d'une vallée où l'heure ne se compte pas.  
-> Michèle et Michel font la paire.  
-> Où qu’elle aille, il la suit. Et où qu’il aille, elle le suit.  
-> Aller où ? Ils savent qu'ils ne le savent pas.      
-> C'est déjà un premier pas 
-  
-> Deux corps spectaculaires et maladroits s'accompagnent sur le chemin de la vie, à la poursuite du vent, de leurs rêves d'enfants, de la vie vraiment. Ensemble ils observent, cherchent, tentent, repoussent, s'élancent et s'effritent dans des élans intimes ou de joyeux éclats.
-> Deux corps complices qui poussent avec innocence et pudeur un grand cri d’amour et de fraternité.  
-> C’est puissant. C’est tendre.  
-> Merveilleusement fragile et imparfait.  
-> C’est humain.
+> Elle est là. Lui aussi.
+> Un regard et le voyage peut commencer. 
+> Deux corps spectaculaires et maladroits s'accompagnent, se rassurent, s’élèvent sur le chemin de l'existence.
+> Deux êtres complices poussent avec innocence et pudeur un grand cri d’amour.
+> Traversés par des élans intimes, ou de joyeux éclats, ils vont saisir ce qui est là.
+> Une quête poétique, de clarté et d'harmonie.
+> C’est puissant.
+> C’est tendre.
+> Merveilleusement fragile.
 
-> <em>"Mesurer notre chance de vivre est souvent une tâche difficile. Et pourtant si simple d'accès. C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
-Celles qui relèvent nos têtes engourdies par les tracas quotidiens."</em>
+> Leur silence est une porte, derrière cette porte un paysage, c'est l'horizon qui vous transporte.
+> Leur souffle est une histoire, dans cette histoire résonne un chant et de ce chant renaît l'espoir.
+
+
+> <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
+C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
+Celle qui réveille en nous le courage, le goût du risque, l'envie de vivre."</em>
