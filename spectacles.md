@@ -83,7 +83,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Tandem
 <span class="subtitle">Duo poétique</span>
 
-![Affiche du spectacle tandem]({{ site.baseurl }}/public/img/affiche-tandem-signe.jpg)
+![Photo du spectacle Tandem]({{ site.baseurl }}/public/img/IMG_0190-3.jpg.jpg)
 
 <div class="message">
   <div class="mb-1">
@@ -120,4 +120,4 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 
 > <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
 C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
-Celle qui réveille en nous le courage, le goût du risque, l'envie d'exister."</em>
+Celles qui réveillent en nous le courage, le goût du risque et l'envie d'exister."</em>
