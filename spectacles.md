@@ -83,7 +83,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Tandem
 <span class="subtitle">Duo poétique</span>
 
-![Photo du spectacle Tandem]({{ site.baseurl }}/public/img/IMG_0190-3.jpg.jpg)
+![Photo du spectacle Tandem]({{ site.baseurl }}/public/img/IMG_0190-3.jpg)
 
 <div class="message">
   <div class="mb-1">
