@@ -20,7 +20,7 @@ sidebar_order: 3
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
 - {:.tandem} **7 Juillet** -- _Boudu la jongle_ -- Toulouse (31)
-- **12 ou 20 Juillet** -- _(Option) Festival Emotions de rue_ -- Voiron (38)
+- **12 Juillet** -- _Festival Emotions de rue_ -- Voiron (38)
 - **13 et 14 Juillet** -- _Festival Nuits de Rêve_ -- Rosières (43)
 - {:.tandem} **21 Juillet** -- _Le Bouche A Oreille_ -- Simorre (32)
 - **27 Juillet** -- _Festival Les Goûts d'Art Gais_ -- Goudargues (30)
@@ -33,9 +33,9 @@ sidebar_order: 3
 - **31 Août** -- _Festival Détours en Tournugeois_ -- Tournus (71)
 - **13 Septembre** -- _Ouverture de Saison culturelle_ -- Villenave-d'Ornon (33)
 - **14 Septembre** -- _Ouverture de Saison culturelle_ -- Cestas (33)
-- **20 au 22 Septembre** -- _(Option) Festival de rue de La Crau_ -- La Crau (83)
+- **20 au 22 Septembre** -- _Festival de rue de La Crau_ -- La Crau (83)
 - **13 Octobre** -- _Saison culturelle_ -- Labastide-Saint-Pierre (82)
-- **24 et 25 Octobre** -- _(Option) Festival Spok_ -- Pont-L'abbée (29)
+- **24 et 25 Octobre** -- _Festival Spok_ -- Pont-L'abbée (29)
 - **22 Novembre** -- _Soirée Cabaret MJC Reynerie_ -- Toulouse (31)
 
 ---
