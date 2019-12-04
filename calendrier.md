@@ -15,7 +15,7 @@ sidebar_order: 3
 
 - {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31)
 - **9 mai** -- _Saison culturelle_ -- Romagnat (63)
-- **15, 16, 17 mai** -- _Festival Neuvic sur rire_ -- Neuvic (24)
+- **15, 16, 17 mai** -- _Fête école Amical Circus_ -- Thil (31)
 - **22, 23, 24 mai** -- _(Option) Fête de la Morue_ -- Bègles (33)
 - **28, 29 et 31 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
 - **5 juin** -- _MJC Reynerie_ -- Toulouse (31)
