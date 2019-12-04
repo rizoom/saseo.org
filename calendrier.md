@@ -11,6 +11,32 @@ sidebar_order: 3
 
 ---
 
+## 2020
+
+- {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31)
+- **9 mai** -- _Saison culturelle_ -- Romagnat (63)
+- **15, 16, 17 mai** -- _Festival Neuvic sur rire_ -- Neuvic (24)
+- **22, 23, 24 mai** -- _(Option) Fête de la Morue_ -- Bègles (33)
+- **28, 29 et 31 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+- **5 juin** -- _MJC Reynerie_ -- Toulouse (31)
+- **7 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47)
+- **9, 10 et 13 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01)
+- **14 juin** -- _Festival Célé'BRON_ -- Bron (69)
+- **26 juin** -- _(Option) Festival Queyries fait son cirque_ -- Bordeaux (33)
+- **27 juin** -- _(Option) Festival_ -- Talence (33)
+- **28 juin** -- _Festival Côté Jardin_ -- Bonneville-et-Saint-Avit-de-Fumadières (24)
+- **4 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33)
+- **5 août** -- _(Option) Renc'arts sous les remparts_ -- Dinan (22)
+- **6 août** -- _(Option) Saison estivale_ -- Fougères (35)
+- **7 août** -- _(Option) Saison estivale_ -- Laval (53)
+- **12 août** -- _(Option) Saison estivale_ -- La Bourboule (63)
+- **13 août** -- _(Option) Saison estivale_ -- Besse (63)
+- **19 au 22 août** -- _(Option) Festival d'Aurillac OFF_ -- Aurillac (15)
+- **25 août** -- _(Option) Les Baladins_ -- Cadillac (33)
+- **19 septembre** -- _Ouverture de saison_ -- Oloron-Sainte-Marie (64)
+
+---
+
 ## 2019
 
 - **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
