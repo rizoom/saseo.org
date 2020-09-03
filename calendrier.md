@@ -13,33 +13,35 @@ sidebar_order: 3
 
 ## 2020
 
-- {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31)
-- **9 mai** -- _Saison culturelle_ -- Romagnat (63)
-- **15 mai** -- _Fête école Amical Circus_ -- Thil (31)
-- **28, 29 et 31 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
-- **5 juin** -- _MJC Reynerie_ -- Toulouse (31)
-- **6 juin** -- _Festival Monte au Banc_ -- Montauban (82)
-- **7 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47)
-- **9, 10 et 13 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01)
-- **14 juin** -- _Festival Célé'BRON_ -- Bron (69)
-- **27 juin** -- _Festival_ -- Talence (33)
-- **28 juin** -- _Festival Côté Jardin_ -- Bonneville-et-Saint-Avit-de-Fumadières (24)
-- **4 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33)
-- **5 juillet** -- _Festival Terre de Cultures_ -- Saint-Sulpice-de-Faleyrens (33)
+- {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31) / REPORTÉ
+- **9 mai** -- _Saison culturelle_ -- Romagnat (63) / REPORTÉ
+- **15 mai** -- _Fête école Amical Circus_ -- Thil (31) / ANNULÉ
+- **28, 29 et 31 mai** -- _Festival Graines de Mai_ -- Yzeure (03) / REPORTÉ
+- **6 juin** -- _Festival Monte au Banc_ -- Montauban (82) / REPORTÉ
+- **7 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47) / REPORTÉ
+- **9, 10 et 13 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01) / REPORTÉ
+- **14 juin** -- _Festival Célé'BRON_ -- Bron (69) / REPORTÉ
+- **27 juin** -- _Festival_ -- Talence (33) / ANNULÉ
+- **28 juin** -- _Festival Côté Jardin_ -- Bonneville-et-Saint-Avit-de-Fumadières (24) / ANNULÉ
+- **4 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33) / REPORTÉ
+- **5 juillet** -- _Festival Terre de Cultures_ -- Saint-Sulpice-de-Faleyrens (33) / REPORTÉ
 - **17 juillet** -- _Festival les Zendimanchés_ -- Saint-Hilaire-de-Chaléons (44)
-- **1er & 2 août** -- _(Option) Festival Carrioles_ -- Les Cars (87)
 - **5 août** -- _Renc'arts sous les remparts_ -- Dinan (22)
-- **6 août** -- _Saison estivale_ -- Fougères (35)
-- **7 août** -- _Saison estivale_ -- Laval (53)
+- **6 août** -- _Saison estivale_ -- Fougères (35) / REPORTÉ
+- **7 août** -- _Saison estivale_ -- Laval (53)/ ANNULÉ
 - **12 août** -- _Saison estivale_ -- La Bourboule (63)
 - **13 août** -- _Saison estivale_ -- Besse (63)
-- **15 août** -- _(Option) Festival Rires et Patrimoine_ -- Saint-Papoul (11)
-- **19 au 22 août** -- _Festival d'Aurillac OFF avec le collectif la Cour qui Claque_ -- Aurillac (15)
+- **15 août** -- _(Option) Festival Rires et Patrimoine_ -- Saint-Papoul (11) / ANNULÉ
+- **19 au 22 août** -- _Festival d'Aurillac OFF avec le collectif la Cour qui Claque_ -- Aurillac (15) / ANNULÉ
 - **25 août** -- _Les Baladins_ -- Cadillac (33)
+- **28 août** -- _Un été au bord de l'eau, MJC Reynerie_ -- Toulouse (31)
 - **5 septembre** -- _(Option) Ouverture de saison_ -- Fleurance (32)
-- **13 septembre** -- _Ouverture de saison_ -- Bouc-Bel-Air (13)
+- **13 septembre** -- _Ouverture de saison_ -- Bouc-Bel-Air (13) / ANNULÉ
+- **18 septembre** -- _Le Temps des Cerises_ -- Serviers-et-Labaume (30)
 - **19 septembre** -- _Ouverture de saison_ -- Oloron-Sainte-Marie (64)
-- **26 & 27 septembre** -- _(Option) Festival Césarts fête la planète_ -- Asnières-sur-Seine (92)
+- **26 septembre** -- _Ouverture de saison Clam !_ -- Martignas-sur-Jalle (33)
+- **5 et 6 décembre** -- _Arbres de Noël Trianon de Seclin -- Seclin (59)
+
 
 
 ---
