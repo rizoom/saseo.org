@@ -31,11 +31,11 @@ sidebar_order: 3
 - **7 août** -- _Saison estivale_ -- Laval (53)/ ANNULÉ
 - **12 août** -- _Saison estivale_ -- La Bourboule (63)
 - **13 août** -- _Saison estivale_ -- Besse (63)
-- **15 août** -- _(Option) Festival Rires et Patrimoine_ -- Saint-Papoul (11) / ANNULÉ
+- **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11) / ANNULÉ
 - **19 au 22 août** -- _Festival d'Aurillac OFF avec le collectif la Cour qui Claque_ -- Aurillac (15) / ANNULÉ
 - **25 août** -- _Les Baladins_ -- Cadillac (33)
 - **28 août** -- _Un été au bord de l'eau, MJC Reynerie_ -- Toulouse (31)
-- **5 septembre** -- _(Option) Ouverture de saison_ -- Fleurance (32)
+- **5 septembre** -- _Ouverture de saison_ -- Fleurance (32)
 - **13 septembre** -- _Ouverture de saison_ -- Bouc-Bel-Air (13) / ANNULÉ
 - **18 septembre** -- _Le Temps des Cerises_ -- Serviers-et-Labaume (30)
 - **19 septembre** -- _Ouverture de saison_ -- Oloron-Sainte-Marie (64)
