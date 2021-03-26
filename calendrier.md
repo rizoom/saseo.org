@@ -22,13 +22,13 @@ sidebar_order: 3
 - **26 et 27 juin** -- _Les Sarabandes_ -- Rouillac (16)
 - **29 et 30 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01)
 - **3 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33)
-- **4 juillet** -- _Festival Terre de Culture_ -- Vignonet (33) / _OPTION_
+- _Option_ **4 juillet** -- _Festival Terre de Culture_ -- Vignonet (33)
 - **6 juillet** -- _Saison culturelle_ -- Biganos (33)
 - **26 au 31 juillet** -- _Saison estivale_ -- La Grande-Motte (34)
 - **5 août** -- _Saison estivale_ -- Fougères (35)
-- **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11) / _OPTION_
+- _Option_ **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11)
 - **4 et 5 septembre** -- _Château de Boulbon_ -- Boulbon (13)
-- **26 septembre** -- _Ouverture de Saison_ -- Targon (33) / _OPTION_
+- _Option_ **26 septembre** -- _Ouverture de Saison_ -- Targon (33)
 
 ---
 
