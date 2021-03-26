@@ -11,6 +11,27 @@ sidebar_order: 3
 
 ---
 
+## 2021
+
+- **9 mai** -- _Saison culturelle_ -- Romagnat (63)
+- **27 au 30 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+- **4 juin** -- _Saison culturelle_ -- Laqueuille (63)
+- **5 juin** -- _Festival Monte au Banc_ -- Montauban (82)
+- **6 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47)
+- **19 juin** -- _Saison culturelle_ -- Buzet-sur-Tarn (31)
+- **26 et 27 juin** -- _Les Sarabandes_ -- Rouillac (16)
+- **29 et 30 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01)
+- **3 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33)
+- **4 juillet** -- _Festival Terre de Culture_ -- Vignonet (33) / _OPTION_
+- **6 juillet** -- _Saison culturelle_ -- Biganos (33)
+- **26 au 31 juillet** -- _Saison estivale_ -- La Grande-Motte (34)
+- **5 août** -- _Saison estivale_ -- Fougères (35)
+- **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11) / _OPTION_
+- **4 et 5 septembre** -- _Château de Boulbon_ -- Boulbon (13)
+- **26 septembre** -- _Ouverture de Saison_ -- Targon (33) / _OPTION_
+
+---
+
 ## 2020
 
 - {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31) / REPORTÉ
