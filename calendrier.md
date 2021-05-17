@@ -11,21 +11,29 @@ sidebar_order: 3
 
 ---
 
+## 2022
+
+- **27 mars** -- _Saison culturelle_ -- Romagnat (63)
+- **19 au 22 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+
+---
+
 ## 2021
 
-- **9 mai** -- _Saison culturelle_ -- Romagnat (63)
-- **27 au 30 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+- **9 mai** -- _Saison culturelle_ -- Romagnat (63) / REPORTE
+- **27 au 30 mai** -- _Festival Graines de Mai_ -- Yzeure (03) / REPORTE
 - **4 juin** -- _Saison culturelle_ -- Laqueuille (63)
-- **5 juin** -- _Festival Monte au Banc_ -- Montauban (82)
-- **6 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47)
+- **5 juin** -- _Festival Monte au Banc_ -- Montauban (82) / REPORTE
+- **6 juin** -- _Festival l'Enfance de l'Art_ -- Esclottes (47) / REPORTE
 - **19 juin** -- _Saison culturelle_ -- Buzet-sur-Tarn (31)
 - **26 et 27 juin** -- _Les Sarabandes_ -- Rouillac (16)
 - **29 et 30 juin** -- _Festival Tôt ou t'Arts_ -- Gex (01)
 - **3 juillet** -- _Festival Scènes Buissonnières_ -- Cabanac-et-Villagrains (33)
-- _Option_ **4 juillet** -- _Festival Terre de Culture_ -- Vignonet (33)
+- _Option_ **4 juillet** -- _Festival Terre de Culture_ -- Vignonet (33) / ANNULE
 - **6 juillet** -- _Saison culturelle_ -- Biganos (33)
 - **26 au 31 juillet** -- _Saison estivale_ -- La Grande-Motte (34)
 - **5 août** -- _Saison estivale_ -- Fougères (35)
+- **14 août** -- _Saison estivale_ -- Fougaron (31)
 - _Option_ **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11)
 - **4 et 5 septembre** -- _Château de Boulbon_ -- Boulbon (13)
 - _Option_ **26 septembre** -- _Ouverture de Saison_ -- Targon (33)
