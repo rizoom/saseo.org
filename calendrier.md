@@ -35,7 +35,6 @@ sidebar_order: 3
 - **26 au 31 juillet** -- _Saison estivale_ -- La Grande-Motte (34)
 - **5 août** -- _Saison estivale_ -- Fougères (35)
 - **14 août** -- _Saison estivale_ -- Fougaron (31)
-- _Option_ **15 août** -- _Festival Rires et Patrimoine_ -- Saint-Papoul (11)
 - **4 et 5 septembre** -- _Château de Boulbon_ -- Boulbon (13)
 - **18 septembre** -- _Ouverture de saison du CLAM_ -- Martignas-sur-jalle (33)
 - _Option_ **26 septembre** -- _Ouverture de Saison_ -- Targon (33)
