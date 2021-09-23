@@ -13,8 +13,11 @@ sidebar_order: 3
 
 ## 2022
 
-- **27 mars** -- _Saison culturelle_ -- Romagnat (63)
+- **23 janvier** -- _Ouverture de saison_ -- Targon (33)
+- **4 fevrier** -- _Festival les Elancées_ -- Cornillon Confloux (13)
+- **26 mars** -- _Saison culturelle_ -- Romagnat (63)
 - **19 au 22 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+- _Option_ **27 mai** -- _Saison culturelle_ -- Monistrol-sur-loire (43)
 - **6 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
 
 ---
@@ -37,7 +40,7 @@ sidebar_order: 3
 - **14 août** -- _Saison estivale_ -- Fougaron (31)
 - **4 et 5 septembre** -- _Château de Boulbon_ -- Boulbon (13)
 - **18 septembre** -- _Ouverture de saison du CLAM_ -- Martignas-sur-jalle (33)
-- _Option_ **26 septembre** -- _Ouverture de Saison_ -- Targon (33)
+- **26 septembre** -- _Ouverture de Saison_ -- Targon (33) / REPORTE
 
 ---
 
