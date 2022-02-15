@@ -17,8 +17,13 @@ sidebar_order: 3
 - **4 fevrier** -- _Festival les Elancées_ -- Cornillon Confloux (13)
 - **26 mars** -- _Saison culturelle_ -- Romagnat (63)
 - **19 au 22 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
+- **21 mai** -- _Festival AH?_ -- Parthenay (79)
+- **28 mai** -- _Saison culturelle_ -- Volvic (63)
 - _Option_ **27 mai** -- _Saison culturelle_ -- Monistrol-sur-loire (43)
 - **6 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
+- **13 au 19 juin** --_Toulousaine de cirque_ -- Balma (31)
+- **28 au 29 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
+- _Option_ **11-12 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
 
 ---
 
