@@ -26,6 +26,7 @@ sidebar_order: 3
 - **22, 23 et 24 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
 - _Option_ **30 juillet** -- _Saison culturelle/MJC Prevert_ -- Toulouse (31)
 - **2, 3 et 4 août** --_Festival des six pompes_ -- La chaux de fonds (Suisse)
+- **17 au 20 août** --_Festival de rue d'Aurillac_ -- Aurillac (15)
 - _Option_ **11-12 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
 - **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
 
