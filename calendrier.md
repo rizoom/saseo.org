@@ -19,11 +19,15 @@ sidebar_order: 3
 - **19 au 22 mai** -- _Festival Graines de Mai_ -- Yzeure (03)
 - **21 mai** -- _Festival AH?_ -- Parthenay (79)
 - **28 mai** -- _Saison culturelle_ -- Volvic (63)
-- _Option_ **27 mai** -- _Saison culturelle_ -- Monistrol-sur-loire (43)
-- **6 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
+- **29 mai** -- _Festi'clap_ -- Monistrol-sur-loire (43)
+- **4 juin** -- _Festival Au rythme de ma rue_ -- Pelissanne (13)
+- **5 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
 - **13 au 19 juin** --_Toulousaine de cirque_ -- Balma (31)
-- **28 au 29 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
+- **22, 23 et 24 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
+- _Option_ **30 juillet** -- _Saison culturelle/MJC Prevert_ -- Toulouse (31)
+- **2, 3 et 4 août** --_Festival des six pompes_ -- La chaux de fonds (Suisse)
 - _Option_ **11-12 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
+- **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
 
 ---
 
