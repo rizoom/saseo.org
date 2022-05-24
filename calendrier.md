@@ -11,6 +11,11 @@ sidebar_order: 3
 
 ---
 
+## 2023
+
+- **22 mars** -- _Festival Couleurs d'enfance_ -- Saint-Julien-en-Genevois (74)
+- **6 mai** -- _Saison culturelle, théâtre de verdure_ -- Saint Rémy de Provence (13)
+
 ## 2022
 
 - **23 janvier** -- _Ouverture de saison_ -- Targon (33)
@@ -24,10 +29,12 @@ sidebar_order: 3
 - **5 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
 - **13 au 19 juin** --_Toulousaine de cirque_ -- Balma (31)
 - **22, 23 et 24 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
-- _Option_ **30 juillet** -- _Saison culturelle/MJC Prevert_ -- Toulouse (31)
+- **26 juint** --_Festival du jeu_ -- Grézels (46)
+- **30 juillet** -- _Saison culturelle/MJC Prevert_ -- Toulouse (31)
 - **2, 3 et 4 août** --_Festival des six pompes_ -- La chaux de fonds (Suisse)
-- **17 au 20 août** --_Festival de rue d'Aurillac_ -- Aurillac (15)
-- _Option_ **11-12 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
+- **15 août** -- _Saison culturelle_ -- Molandier (11)
+- **11 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
+- **2 octobre** --_association mi Avril/ école de cirque piste au nez de la balle_ -- Villefranche-de-Rouergue (12)
 - **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
 
 ---
