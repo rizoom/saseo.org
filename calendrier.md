@@ -29,7 +29,7 @@ sidebar_order: 3
 - **5 juin** -- _Festival de l'enfance de l'art_ -- Esclottes (47)
 - **13 au 19 juin** --_Toulousaine de cirque_ -- Balma (31)
 - **22, 23 et 24 juin** --_Festival tot ou t'Arts_ -- Gex (O1)
-- **26 juint** --_Festival du jeu_ -- Grézels (46)
+- **26 juin** --_Festival du jeu_ -- Grézels (46)
 - **30 juillet** -- _Saison culturelle/MJC Prevert_ -- Toulouse (31)
 - **2, 3 et 4 août** --_Festival des six pompes_ -- La chaux de fonds (Suisse)
 - **15 août** -- _Saison culturelle_ -- Molandier (11)
