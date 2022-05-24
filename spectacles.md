@@ -56,8 +56,10 @@ parts:
     <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">60 minutes</span>
   </div>
   <dl class="ml-2 mb-1">
-    <dt>De et avec</dt>
+    <dt>De </dt>
     <dd>Florian Carrié, Camille Fiorile, Léo Mounier, Olivier Rodier</dd>
+    <dt>Et avec </dt>
+    <dd>Florian Carrié, Camille Fiorile, Olivier Rodier, Luc Socasau </dd>
     <dt>Regard extérieur</dt>
     <dd class="mb-0">Pierre Déaux</dd>
   </dl>
@@ -76,7 +78,7 @@ parts:
 
 Le quatuor improbable installe en un clin d'oeil le décor du cabaret... Un paravent sommaire, quelques cubes dorés, une piste rouge molletonnée, des paillettes dans les poches, un bout de ficelle qui se transforme en chapiteau, c'est le défi de Saseo.
 
-Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diamètre, colorent l'espace, débordent de scène et réveillent les voisins !
+Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diamètre, colorent l'espace et débordent de scène. 
 
 ---
 
