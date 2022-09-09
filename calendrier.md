@@ -34,6 +34,7 @@ sidebar_order: 3
 - **2, 3 et 4 août** --_Festival des six pompes_ -- La chaux de fonds (Suisse)
 - **15 août** -- _Saison culturelle_ -- Molandier (11)
 - **11 septembre** -- _Festival Testes à tête_ -- Testes de Buc (33)
+- **15 septembre** -- _30 ans de l'AFCA_ -- Aire sur l'Adour (40)
 - **2 octobre** --_association mi Avril/ école de cirque piste au nez de la balle_ -- Villefranche-de-Rouergue (12)
 - **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
 
