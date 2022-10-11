@@ -14,7 +14,7 @@ parts:
 ---
 
 ## La pédagogie
-Les Saseistes aiment la transmission, l’émission, l'engouement, ils aiment accompagner, épauler, créer du lien, soutenir, faire vibrer, créer un collectif, le questionner, l'envelopper, l'épauler, le laisser filer.
+La compagnie SASEO aiment la transmission, l’émission, l'engouement, ils aiment accompagner, épauler, créer du lien, soutenir, faire vibrer, créer un collectif, le questionner, l'envelopper, l'épauler, le laisser filer.
 
 Ils s'expérimentent dans la pédagogie depuis plus de 10 ans en développant des projets auprès d'enfants, d'adolescents et d'adultes notamment dans plusieurs ateliers de l’école de cirque de Toulouse, le Lido.
 
@@ -37,25 +37,14 @@ Ils piochent également leur inspiration dans la thérapie, la cuisine, la musiq
 > *Chaque atelier/stage peut être personnalisé selon votre demande*.
 
 Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on ressent sans le juger, repérer les différents flux d'énergie qui nous animent, libérer nos élans corporels, s'embarquer dans une proposition, l'étirer et voir simplement où ça nous mène. Reconnecter avec son propre corps. Découvrir à son rythme celui d'autrui. Retrouver des sensations subtiles par la respiration, le souffle, l'auto massage, le mouvement, l'acrobatie et les portées.  
-Nous explorerons également collectivement les matières à jouer, avec ludisme et fantaisie.  
-Nous tenterons de livrer des outils qui puissent être utilisés de manière pérenne par la suite. Des outils pour être mieux au quotidien et dans le monde qui nous entoure.
-
 
 
 
 ---
 
-## Balades artistiques et déambulations
 
-Les Saséïstes aiment plonger dans l'inconnu, s'intégrer à l'incongru, s’immiscer sans être vu. Ils sont comme des caméléons, se présentent aux lieux et aux habitants, rencontrent les gens, apprennent leurs prénoms, saluent les commerçants, les passants, les municipaux, ils jouent dans la ville, observent, apprivoisent, écoutent, ils recueillent des informations sur l'histoire patrimonique de la ville, les ragots, les secrets, enregistrent les témoignages des personnes âgées, des jeunes, ils arpentent les rues à la recherche de lieux insolites sur lequel ils peuvent se suspendre, s'accrocher, débattre, se figer, créer des images qui interpellent, font parler d'elles, ils tentent de rendre vivant l'espace qui les entoure et créent avec ce qu'ils perçoivent, ce qui les touchent et les traversent.
 
-Les gens en parlent.
 
-<p class="message">
-  Les déambulations sont proposées sous forme de ballades artistiques. Elles peuvent être menées par nous ou construites avec des habitants. Le thème, la participation et la durée sont discutés ensemble.
-
-  C'est l'occasion de découvrir et RE découvrir des lieux connus, inconnus ou habituels, détournés de leurs usages quotidiens, marqués d'une temporalité certaine, utilisés à des fins artistiques, uniques et légères.
-</p>
 
 ---
 
