@@ -31,7 +31,6 @@ Ils piochent également leur inspiration dans la thérapie, la cuisine, la musiq
 > A travers ces moments fantaisistes et légers, nous tachons de relâcher les tensions, relancer la respiration, retrouver en soi confiance et sensation.
 >
 > - **Atelier/stage (expression corporelle et théâtrale, acrobatie, jeux)**
-> - **Atelier d'écriture**
 > - **Atelier de cirque en famille**
 >
 > *Tous les ateliers sont adaptables et transformables (enfant/adolescent/adulte; débutants/confirmés)*.  
@@ -41,10 +40,8 @@ Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on re
 Nous explorerons également collectivement les matières à jouer, avec ludisme et fantaisie.  
 Nous tenterons de livrer des outils qui puissent être utilisés de manière pérenne par la suite. Des outils pour être mieux au quotidien et dans le monde qui nous entoure.
 
-Devenir des supers man et des supers woman !
 
-Sans oublier que tout est important mais rien n'est grave. Chaque atelier est différent. Nous nous adaptons à chacun, aux besoins, en écoutant et observant les individus, nous enrichissons notre pédagogie à chaque nouvelle étape, nos sensations guident nos pas et nous faisons confiance à ce qui vient.  
-C'est dans l'accompagnement et la bienveillance que nous aimons travailler, le sourire dans le cœur et l'humour dans la tête.
+
 
 ---
 
