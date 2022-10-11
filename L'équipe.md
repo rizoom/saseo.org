@@ -12,12 +12,11 @@ parts:
 ---
 
 ## La pédagogie
-La compagnie SASEO aiment la transmission, l’émission, l'engouement, ils aiment accompagner, épauler, créer du lien, soutenir, faire vibrer, créer un collectif, le questionner, l'envelopper, l'épauler, le laisser filer.
+La compagnie SASEO aiment la transmission, l’émission, l'engouement.
 
 Ils s'expérimentent dans la pédagogie depuis plus de 10 ans en développant des projets auprès d'enfants, d'adolescents et d'adultes notamment dans plusieurs ateliers de l’école de cirque de Toulouse, le Lido.
 
-Ils ont appris à former des groupes, les faire vivre, les rendre autonome, les accompagner dans la création d'un spectacle, dans la mise en place de tournée et de production artistique.  
-Ils piochent également leur inspiration dans la thérapie, la cuisine, la musique et le clown.
+Ils ont appris à former des groupes, les faire vivre, les rendre autonome, les accompagner dans la création d'un spectacle, dans la mise en place de tournée. Ils piochent également leur inspiration dans la thérapie, la cuisine, la musique et le clown.
 
 <p class="message">
   Ils partagent une vision fraîche de la vie, pleine d'humanisme, de simplicité et d'amour.
@@ -26,7 +25,6 @@ Ils piochent également leur inspiration dans la thérapie, la cuisine, la musiq
 ---
 
 ## Ateliers et stages
-> A travers ces moments fantaisistes et légers, nous tachons de relâcher les tensions, relancer la respiration, retrouver en soi confiance et sensation.
 >
 > - **Atelier/stage (expression corporelle et théâtrale, acrobatie, jeux)**
 > - **Atelier de cirque en famille**
