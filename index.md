@@ -20,7 +20,6 @@ sidebar_order: 0
   C'est une compagnie curieuse, rieuse et prometteuse !<br />
   <br />
   SASEO c'est l'emblème que 4 personnes ont choisi pour jouir de la vie.<br />
-  SASEO c'est le truc que tu ne vis qu'une seule fois et ça suffit.<br />
   SASEO c'est un cri de joie, un cri de vie.
 </p>
 
