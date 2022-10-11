@@ -7,8 +7,6 @@ parts:
     anchor: la-pédagogie
   - title: Ateliers et stages
     anchor: ateliers-et-stages
-  - title: Balades artistiques
-    anchor: balades-artistiques-et-déambulations
   - title: Champ musical
     anchor: champ-musical
 ---
@@ -42,11 +40,6 @@ Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on re
 
 ---
 
-
-
-
-
----
 
 ## Champ musical
 
