@@ -15,6 +15,7 @@ sidebar_order: 3
 
 - **22 mars** -- _Festival Couleurs d'enfance_ -- Saint-Julien-en-Genevois (74)
 - **6 mai** -- _Saison culturelle, théâtre de verdure_ -- Saint Rémy de Provence (13)
+-  **10 juin** -- _Saison culturelle_ -- Buzet sur Tarn (31)
 
 ## 2022
 
@@ -37,6 +38,7 @@ sidebar_order: 3
 - **15 septembre** -- _30 ans de l'AFCA_ -- Aire sur l'Adour (40)
 - **2 octobre** --_association mi Avril/ école de cirque piste au nez de la balle_ -- Villefranche-de-Rouergue (12)
 - **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
+- **8 décembre** --_CE_ -- La Grainerie, Balma-Gramont (31)
 
 ---
 
