@@ -15,7 +15,10 @@ sidebar_order: 3
 
 - **22 mars** -- _Festival Couleurs d'enfance_ -- Saint-Julien-en-Genevois (74)
 - **6 mai** -- _Saison culturelle, théâtre de verdure_ -- Saint Rémy de Provence (13)
--  **10 juin** -- _Saison culturelle_ -- Buzet sur Tarn (31)
+- **27 mai** -- _Festival jubil'à jongle_ -- Blanquefort (33)
+- **10 juin** -- _Saison culturelle_ -- Buzet sur Tarn (31)
+- **11 juin** -- _Festival Queyries fait son cirque !_ -- Bordeaux (33)
+- **22 juin** -- _Temps fort des quartiers de la ville_ -- Saint-Jean d'Illac (33)
 
 ## 2022
 
