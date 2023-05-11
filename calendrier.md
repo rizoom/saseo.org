@@ -18,7 +18,9 @@ sidebar_order: 3
 - **27 mai** -- _Festival jubil'à jongle_ -- Blanquefort (33)
 - **10 juin** -- _Saison culturelle_ -- Buzet sur Tarn (31)
 - **11 juin** -- _Festival Queyries fait son cirque !_ -- Bordeaux (33)
+- **20 juin** -- _Hopital Marchant_ -- Toulouse (31)
 - **22 juin** -- _Temps fort des quartiers de la ville_ -- Saint-Jean d'Illac (33)
+- **20 octobre** -- _MJC les Pradettes_ -- Toulouse (31)
 
 ## 2022
 
