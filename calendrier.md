@@ -19,7 +19,8 @@ sidebar_order: 3
 - **10 juin** -- _Saison culturelle_ -- Buzet sur Tarn (31)
 - **11 juin** -- _Festival Queyries fait son cirque !_ -- Bordeaux (33)
 - **20 juin** -- _Hopital Marchant_ -- Toulouse (31)
-- **22 juin** -- _Temps fort des quartiers de la ville_ -- Saint-Jean d'Illac (33)
+- **22 juin** -- _Les itinérantes_ -- Saint-Jean d'Illac (33)
+- **29 et 30 septembre** -- _Festival street art_ -- Aurec-sur-loire (43)
 - **20 octobre** -- _MJC les Pradettes_ -- Toulouse (31)
 
 ## 2022
