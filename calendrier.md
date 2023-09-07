@@ -22,6 +22,7 @@ sidebar_order: 3
 - **22 juin** -- _Les itinérantes_ -- Saint-Jean d'Illac (33)
 - **29 et 30 septembre** -- _Festival street art_ -- Aurec-sur-loire (43)
 - **20 octobre** -- _MJC les Pradettes_ -- Toulouse (31)
+- **10 décembre** -- _La Negrette_ -- Labastide saint pierre (82)
 
 ## 2022
 
