@@ -32,7 +32,7 @@ Ils ont appris à former des groupes, les faire vivre, les rendre autonome, les 
 > *Tous les ateliers sont adaptables et transformables (enfant/adolescent/adulte; débutants/confirmés)*.  
 > *Chaque atelier/stage peut être personnalisé selon votre demande*.
 
-Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on ressent sans le juger, repérer les différents flux d'énergie qui nous animent, libérer nos élans corporels, s'embarquer dans une proposition, l'étirer et voir simplement où ça nous mène. Reconnecter avec son propre corps. Découvrir à son rythme celui d'autrui. Retrouver des sensations subtiles par la respiration, le souffle, l'auto massage, le mouvement, l'acrobatie et les portées.  
+Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on ressent, repérer les différents flux d'énergie qui nous animent, libérer nos élans corporels, s'embarquer dans une proposition, l'étirer et voir simplement où ça nous mène. (Re)connecter avec son propre corps. Retrouver des sensations subtiles par la respiration, le souffle, l'auto massage, le mouvement, l'acrobatie et les portées.  
 
 
 
