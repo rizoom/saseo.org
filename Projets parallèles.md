@@ -41,7 +41,7 @@ Nous chercherons à éveiller le corps dans sa globalité, saisir ce que l'on re
 
 ## Champ musical
 
-### L'Olivier & Caetera
+### L'Olivier
 <span class="subtitle">(Musique écrite avec le cœur et jouée avec les tripes)</span>
 
 L'Olivier chante et rap ses textes accompagné de quatre musiciens. Ensemble, ils imprègnent leurs compositions d'influences diverses (hip-hop, jazz, électro, chanson traditionnelle...).

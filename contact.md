@@ -11,11 +11,6 @@ cabaretdepoche@gmail.com
 
 ---
 
-## Technique / artistique
-La compagnie SASEO
-
----
-
 ## Administration
 La compagnie ALCHYMERE
 Gladys Guilliot  
