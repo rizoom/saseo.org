@@ -5,8 +5,13 @@ sidebar_order: 3
 parts:
   - title: Cabaret de poche
     anchor: poche
+  - title: Je suis Heureux (titre provisoire)
+    anchor: je-suis-heureux
   - title: Tandem
     anchor: tandem
+  - title: Antchouki!
+    anchor: antchou
+  
 ---
 
 <h2 id="poche">Cabaret de poche</h2>
@@ -190,7 +195,20 @@ parts:
 ---
 
 
+<h2 id="je-suis-heureux">Je suis Heureux (titre provisoire)</h2>
+
+<p class="message">
+  En cours de création.
+</p>
+
+---
+
+
 ## Tandem
+
+<p class="message">
+  Repris par la compagnie [Là Haut](https://cielahaut.fr).
+</p>
 
 ### 2020
 
@@ -202,3 +220,12 @@ parts:
 - **8 Juin** -- _Festival Les utopiennes_ -- Biès (31)
 - **7 Juillet** -- _Boudu la jongle_ -- Toulouse (31)
 - **21 Juillet** -- _Le Bouche A Oreille_ -- Simorre (32)
+
+---
+
+
+<h2 id="antchou">Antchouki!</h2>
+
+<p class="message">
+  Tournée terminée.
+</p>
