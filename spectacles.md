@@ -55,6 +55,13 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 
 ---
 
+## Je suis Heureux (titre provisoire)
+<span class="subtitle">Seul en scène</span>
+
+![Yvan à Bagnères-de-Bigorre]({{ site.baseurl }}/public/img/je-suis-heureux-flo.jpg)
+
+---
+
 ## Tandem
 <span class="subtitle">Duo poétique</span>
 
@@ -96,13 +103,6 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 > <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
 C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
 Celles qui réveillent en nous le courage, le goût du risque et l'envie d'exister."</em>
-
----
-
-## Je suis Heureux (titre provisoire)
-<span class="subtitle">Seul en scène</span>
-
-![Yvan à Bagnères-de-Bigorre]({{ site.baseurl }}/public/img/je-suis-heureux-flo.jpg)
 
 ---
 
