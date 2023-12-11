@@ -4,12 +4,12 @@ title: Calendrier
 sidebar_order: 3
 parts:
   - title: Cabaret de poche
-    anchor: cabaret-de-poche
+    anchor: poche
   - title: Tandem
     anchor: tandem
 ---
 
-## Cabaret de poche
+<h2 id="poche">Cabaret de poche</h2>
 
 ### 2023
 
