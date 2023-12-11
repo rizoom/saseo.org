@@ -15,7 +15,7 @@ sidebar_order: 0
   Elle réunie des artistes issus du cirque et de la musique.<br />
   Ils aiment l'humain, l'humour, l'harmonie et l'horizon.<br />
   Ils essayent d'être simples, authentiques, détendus et empathiques.<br />
-  Ils s'épanouissent dans le spectacle vivant, réelle source d'expérimentation, de transmission, d'émotions et d'apaisement.<br />
+  Ils s'épanouissent dans le spectacle vivant, réelle source d'expérimentation, de transmission et d'émotions.<br />
   <br />
   C'est une compagnie curieuse, rieuse et prometteuse !<br />
   <br />
