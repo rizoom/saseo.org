@@ -2,6 +2,7 @@
 layout: page
 title: Calendrier
 sidebar_order: 3
+parts:
   - title: Cabaret de poche
     anchor: cabaret-de-poche
   - title: Tandem
