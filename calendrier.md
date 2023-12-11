@@ -207,7 +207,7 @@ parts:
 ## Tandem
 
 <p class="message">
-  Repris par la compagnie [Là Haut](https://cielahaut.fr).
+  Repris par la compagnie <a href="https://cielahaut.fr">Là Haut</a>.
 </p>
 
 ### 2020
