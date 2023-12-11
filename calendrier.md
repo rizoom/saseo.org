@@ -2,16 +2,15 @@
 layout: page
 title: Calendrier
 sidebar_order: 3
+  - title: Cabaret de poche
+    anchor: cabaret-de-poche
+  - title: Tandem
+    anchor: tandem
 ---
 
-## Spectacles
+## Cabaret de poche
 
-- **Cabaret de poche**
-- {:.tandem} **Tandem**
-
----
-
-## 2023
+### 2023
 
 - **22 mars** -- _Festival Couleurs d'enfance_ -- Saint-Julien-en-Genevois (74)
 - **6 mai** -- _Saison culturelle, théâtre de verdure_ -- Saint Rémy de Provence (13)
@@ -24,7 +23,8 @@ sidebar_order: 3
 - **20 octobre** -- _MJC les Pradettes_ -- Toulouse (31)
 - **10 décembre** -- _La Negrette_ -- Labastide saint pierre (82)
 
-## 2022
+
+### 2022
 
 - **23 janvier** -- _Ouverture de saison_ -- Targon (33)
 - **4 fevrier** -- _Festival les Elancées_ -- Cornillon Confloux (13)
@@ -47,9 +47,8 @@ sidebar_order: 3
 - **25 novembre** --_Saison culturelle_ -- Saint Yrieix la Perche (87)
 - **8 décembre** --_CE_ -- La Grainerie, Balma-Gramont (31)
 
----
 
-## 2021
+### 2021
 
 - **9 mai** -- _Saison culturelle_ -- Romagnat (63) / REPORTE
 - **27 au 30 mai** -- _Festival Graines de Mai_ -- Yzeure (03) / REPORTE
@@ -69,11 +68,9 @@ sidebar_order: 3
 - **18 septembre** -- _Ouverture de saison du CLAM_ -- Martignas-sur-jalle (33)
 - **26 septembre** -- _Ouverture de Saison_ -- Targon (33) / REPORTE
 
----
 
-## 2020
+### 2020
 
-- {:.tandem} **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31) / REPORTÉ
 - **9 mai** -- _Saison culturelle_ -- Romagnat (63) / REPORTÉ
 - **15 mai** -- _Fête école Amical Circus_ -- Thil (31) / ANNULÉ
 - **28, 29 et 31 mai** -- _Festival Graines de Mai_ -- Yzeure (03) / REPORTÉ
@@ -103,21 +100,14 @@ sidebar_order: 3
 - **5 et 6 décembre** -- _Arbres de Noël Trianon de Seclin -- Seclin (59)
 
 
-
----
-
-## 2019
+### 2019
 
 - **29 Mars** -- _Festival Entre deux Rêves_ -- Latresne (33)
 - **19 Mai** -- _Fête des enfants_ -- Beaumont-de-Lomagne (82)
-- {:.tandem} **21 Mai au 1 Juin** -- _Théâtre du Grand Rond_ -- Toulouse (31)
-- {:.tandem} **8 Juin** -- _Festival Les utopiennes_ -- Biès (31)
 - **22 Juin** -- _Festival Neuvic sur rire_ -- Neuvic (24)
 - **30 Juin** -- _Festival Quel Cirque_ -- Alixan (26)
-- {:.tandem} **7 Juillet** -- _Boudu la jongle_ -- Toulouse (31)
 - **12 Juillet** -- _Festival Emotions de rue_ -- Voiron (38)
 - **13 et 14 Juillet** -- _Festival Nuits de Rêve_ -- Rosières (43)
-- {:.tandem} **21 Juillet** -- _Le Bouche A Oreille_ -- Simorre (32)
 - **27 Juillet** -- _Festival Les Goûts d'Art Gais_ -- Goudargues (30)
 - **3 et 4 Août** -- _Festival Les beaux dimanches du Mont Noir_ -- Hazebrouck (59)
 - **8 au 10 Août** -- _IN Fest'arts_ -- Libourne (33)
@@ -133,9 +123,8 @@ sidebar_order: 3
 - **24 et 25 Octobre** -- _Festival Spok_ -- Pont-L'abbée (29)
 - **22 Novembre** -- _Soirée Cabaret MJC Reynerie_ -- Toulouse (31)
 
----
 
-## 2018
+### 2018
 
 - **10 Février** -- _clôture Festival de créations télévisuelles_ -- Bagnères de Luchon (31)
 - **24 Mars** -- _soirée cabaret Eclat de Printemps_ -- Beaumont de Lomagne (82)
@@ -171,9 +160,8 @@ sidebar_order: 3
 - **19 Décembre** -- _Fête de fin d'année Maison d'enfants La Landelle_ -- Palleville (81)
 - **20 Décembre** -- _Représentation scolaire - Fête de fin d'année_ -- Montrabé (31)
 
----
 
-## 2017
+### 2017
 
 - **17 au 21 Janvier** -- _Théâtre du Grand Rond_ -- Toulouse (31)
 - **2 Février** -- _Lycée agricole_ -- Castelnaudary (11)
@@ -197,3 +185,19 @@ sidebar_order: 3
 - **10 Décembre** -- _Comité d'entreprise_ -- Figeac (46)
 - **20 Décembre** -- _Saison culturelle_ -- Vaour (81)
 - **21 Décembre** -- _Ecole primaire_ -- Martiel (12)
+
+---
+
+
+## Tandem
+
+### 2020
+
+- **3 avril** -- _Centre Culturel_ -- Labarthe-sur-Lèze (31) / REPORTÉ
+
+
+### 2019
+- **21 Mai au 1 Juin** -- _Théâtre du Grand Rond_ -- Toulouse (31)
+- **8 Juin** -- _Festival Les utopiennes_ -- Biès (31)
+- **7 Juillet** -- _Boudu la jongle_ -- Toulouse (31)
+- **21 Juillet** -- _Le Bouche A Oreille_ -- Simorre (32)
