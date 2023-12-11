@@ -8,7 +8,7 @@ parts:
   - title: Je suis Heureux (titre provisoire)
     anchor: je-suis-heureux
   - title: Tandem
-    anchor: tandem
+    anchor: spec-tandem
   - title: Antchouki!
     anchor: antchou
   
@@ -204,7 +204,7 @@ parts:
 ---
 
 
-## Tandem
+<h2 id="spec-tandem">Tandem</h2>
 
 <p class="message">
   Repris par la compagnie <a href="https://cielahaut.fr">Là Haut</a>.
