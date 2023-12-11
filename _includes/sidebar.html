@@ -23,8 +23,15 @@
       
     </nav>
 
-    <small>
-      Saseo &ndash; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-    </small>
+    <div style="display: flex; justify-content: space-between;">
+      <small>
+        Saseo &ndash; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+      </small>
+      <small>
+        <a href="https://www.facebook.com/Ciesaseo/" target="_blank" title="Facebook Saseo">
+          <i class="fa fa-fw fa-lg fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </small>
+    </div>
   </div>
 </aside>
