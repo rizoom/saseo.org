@@ -12,8 +12,7 @@ cabaretdepoche@gmail.com
 ---
 
 ## Technique / artistique
-La compagnie SASEO  
-laciesaseo@gmail.com
+La compagnie SASEO
 
 ---
 
