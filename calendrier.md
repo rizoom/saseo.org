@@ -198,7 +198,7 @@ parts:
 <h2 id="je-suis-heureux">Je suis Heureux (titre provisoire)</h2>
 
 <p class="message">
-  En cours de création.
+  En cours de création, sortie prévue en 2025.
 </p>
 
 ---
