@@ -3,41 +3,14 @@ layout: page
 title: Les spectacles
 sidebar_order: 1
 parts:
-  - title: Antchouki!
-    anchor: antchouki
   - title: Cabaret de poche
     anchor: cabaret-de-poche
+  - title: Je suis Heureux (titre provisoire)
+    anchor: je-suis-heureux-titre-provisoire
   - title: Tandem
     anchor: tandem
----
-
-## Antchouki!
-<span class="subtitle">Cirque bon vivant</span>
-
-![La troupe Antchouki au complet autour de la fameuse table]({{ site.baseurl }}/public/img/antchouki-spectacle.png)
-
-<div class="message">
-  <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2013 <sup><em>SOLD OUT</em></sup></span>
-  </div>
-  <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-info-circle" aria-hidden="true"></i><span class="ml-1">Tout public</span>
-  </div>
-  <div class="mb-1">
-    <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">55 minutes</span>
-  </div>
-  <dl class="ml-2 mb-0">
-    <dt>De et avec</dt>
-    <dd>Florian Carrié, Clément Fragnac, Damien Fragnac, Léo Mounier, Olivier Rodier, Stanislas Zaczkowski</dd>
-    <dt>Regard extérieur</dt>
-    <dd class="mb-0">Judith Rousseau</dd>
-  </dl>
-</div>
-
-> 6 hommes, une table, un spectacle, des rythmes, des rimes et des claques.  
-> On s’invite, on invite, on partage, ça chante, saute et salue.  
-> SASEO vous chahutent, «Antchouki !», le spectacle est vivant !
-
+  - title: Antchouki!
+    anchor: antchouki
 ---
 
 ## Cabaret de poche
@@ -123,3 +96,40 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 > <em>"Mesurer notre chance de vivre est souvent une tâche difficile. 
 C'est pour cela qu'on s'entoure des bonnes personnes, celles qui nous piquent dans notre déclin.
 Celles qui réveillent en nous le courage, le goût du risque et l'envie d'exister."</em>
+
+---
+
+## Je suis Heureux (titre provisoire)
+<span class="subtitle">Seul en scène</span>
+
+![Yvan à Bagnères-de-Bigorre]({{ site.baseurl }}/public/img/je-suis-heureux-flo.jpg)
+
+---
+
+## Antchouki!
+<span class="subtitle">Cirque bon vivant</span>
+
+![La troupe Antchouki au complet autour de la fameuse table]({{ site.baseurl }}/public/img/antchouki-spectacle.png)
+
+<div class="message">
+  <div class="mb-1">
+    <i class="mx-1 fa fa-fw fa-lg fa-calendar-o" aria-hidden="true"></i><span class="ml-1">Création 2013 <sup><em>(Tournée terminée)</em></sup></span>
+  </div>
+  <div class="mb-1">
+    <i class="mx-1 fa fa-fw fa-lg fa-info-circle" aria-hidden="true"></i><span class="ml-1">Tout public</span>
+  </div>
+  <div class="mb-1">
+    <i class="mx-1 fa fa-fw fa-lg fa-clock-o" aria-hidden="true"></i><span class="ml-1">55 minutes</span>
+  </div>
+  <dl class="ml-2 mb-0">
+    <dt>De et avec</dt>
+    <dd>Florian Carrié, Clément Fragnac, Damien Fragnac, Léo Mounier, Olivier Rodier, Stanislas Zaczkowski</dd>
+    <dt>Regard extérieur</dt>
+    <dd class="mb-0">Judith Rousseau</dd>
+  </dl>
+</div>
+
+> 6 hommes, une table, un spectacle, des rythmes, des rimes et des claques.  
+> On s’invite, on invite, on partage, ça chante, saute et salue.  
+> SASEO vous chahutent, «Antchouki !», le spectacle est vivant !
+
