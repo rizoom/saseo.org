@@ -58,7 +58,7 @@ Ici les prouesses circassiennes s'enchaînent sur une piste de 2 mètres de diam
 ## Je suis Heureux (titre provisoire)
 <span class="subtitle">Seul en scène</span>
 
-![Yvan à Bagnères-de-Bigorre]({{ site.baseurl }}/public/img/je-suis-heureux-flo.jpg)
+![Yvan à Bagnères-de-Bigorre]({{ site.baseurl }}/public/img/je-suis-heureux-flo.jpg){: height="500" }
 
 ---
 
