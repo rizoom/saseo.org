@@ -15,7 +15,10 @@ parts:
 ---
 
 <h2 id="poche">Cabaret de poche</h2>
+### 2024
 
+- **25 mai** -- _Festival CABRIOLES_ -- Chomérac (07)
+  
 ### 2023
 
 - **22 mars** -- _Festival Couleurs d'enfance_ -- Saint-Julien-en-Genevois (74)
