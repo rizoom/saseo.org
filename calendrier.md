@@ -15,9 +15,20 @@ parts:
 ---
 
 <h2 id="poche">Cabaret de poche</h2>
+
+### 2025
+
+- **9 février** -- _Festival CUBA HOY_ -- Toulouse (31)
+
 ### 2024
 
 - **25 mai** -- _Festival CABRIOLES_ -- Chomérac (07)
+- **22 juin** -- _Ouverture de Saison la Caverne_ -- Bruniquel (81)
+- **6 août** -- _Saison Culturelle_ -- Carnon (34)
+- **8 août** -- _Echappées Curieuses_ -- Urgosse (32)
+- **11 octobre** -- _60 ans MJC Empalot_ -- Toulouse (31)
+- **11 et 12 octobre** -- _Festival la Mekanik du Rire_ -- Pibrac (31)
+- **13 et 14 décembre** -- _Arbre de Noël_ -- St-Maixent-l'Ecole (79)
   
 ### 2023
 
