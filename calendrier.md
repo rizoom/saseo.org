@@ -28,7 +28,9 @@ parts:
 - **8 août** -- _Echappées Curieuses_ -- Urgosse (32)
 - **11 octobre** -- _60 ans MJC Empalot_ -- Toulouse (31)
 - **11 et 12 octobre** -- _Festival la Mekanik du Rire_ -- Pibrac (31)
+- **7 décembre** -- _Maison de Quartier Lalande_ -- Toulouse (31)
 - **13 et 14 décembre** -- _Arbre de Noël_ -- St-Maixent-l'Ecole (79)
+
   
 ### 2023
 
