@@ -19,6 +19,14 @@ parts:
 ### 2025
 
 - **9 février** -- _Festival CUBA HOY_ -- Toulouse (31)
+- **24 mai** -- _Festival CIRQUE et PAILLETTES_ -- Lanta (31)
+- **15 juin** -- _L'Envolée d'Eté_ -- Villefloure (11)
+- **18 juin** -- _Espace Famille_ -- Blagnac (31)
+- **21 juillet** -- _Les Amis de L'Estelas_ -- Prat-Bonrepaux (09)
+- **07 août** -- _Saison Estivale Grand Auch Coeur de Gascogne_ -- Augnax (32)
+- **9 août** -- _Fête de Quirbajou_ -- Quirbajou (11)
+- **20 au 23 août** -- _Festival international des arts de la rue d'Aurillac (Toulousaine de Cirque)_ -- Aurillac (15)
+- **28 septembre** -- _Festival du jeu de Montech_ -- Montech (82)
 
 ### 2024
 
