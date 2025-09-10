@@ -26,7 +26,7 @@ parts:
 - **07 août** -- _Saison Estivale Grand Auch Coeur de Gascogne_ -- Augnax (32)
 - **9 août** -- _Fête de Quirbajou_ -- Quirbajou (11)
 - **20 au 23 août** -- _Festival international des arts de la rue d'Aurillac (Toulousaine de Cirque)_ -- Aurillac (15)
-- **13 septembre** -- _Festival La Rue des Entants_ -- Montcuq (46)
+- **13 septembre 12h et 18h** -- _Festival La Rue des Entants_ -- Montcuq (46)
 - **28 septembre** -- _Festival du jeu de Montech_ -- Montech (82)
 
 ### 2024
